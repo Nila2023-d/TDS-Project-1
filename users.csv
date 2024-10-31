@@ -1,5 +1,5 @@
 login,name,company,location,email,hireable,bio,public_repos,followers,following,created_at
-getify,Kyle Simpson,GETIFY SOLUTIONS,"Austin, TX",,True,Kyle Simpson is a Human-Centric Technologist. He's fighting for the people behind the pixels.,69.0,43933.0,2.0,2009-11-08T06:56:21Z
+getify,Kyle Simpson,GETIFY SOLUTIONS,"Austin, TX",,true,Kyle Simpson is a Human-Centric Technologist. He's fighting for the people behind the pixels.,69.0,43933.0,2.0,2009-11-08T06:56:21Z
 benawad,Ben Awad,VOIDPET,"Austin, TX",,,"React.js, Typescript, Node.js, PostgreSQL",254.0,29015.0,4.0,2014-06-12T15:55:20Z
 steveklabnik,Steve Klabnik,OXIDECOMPUTER,"Austin, TX",,,All i'm trying to do is enjoy every day to the fullest with my Pokémon.,832.0,6802.0,206.0,2008-10-06T17:40:28Z
 cloudflare,Cloudflare,,"San Francisco, London, Austin, Lisbon, Singapore",,,,475.0,6436.0,0.0,2010-06-25T01:24:59Z
@@ -7,7 +7,7 @@ jbogard,Jimmy Bogard,"JIMMY BOGARD CONSULTING, LLC","Austin, TX",,,"The Barley A
 EvanBacon,Evan Bacon,EXPO,Austin TX,,,Building 𝝠 Expo • Follow me on 𝕏 for updates 🥓,302.0,4595.0,90.0,2014-11-10T22:01:21Z
 progrium,Jeff Lindsay,PROGRIUM TECHNOLOGY COMPANY,"Austin, TX",,,,260.0,3808.0,93.0,2008-02-22T20:00:53Z
 oracle,Oracle,,"Austin, TX",opensource_ww_grp@oracle.com,,Open Source at Oracle,285.0,3720.0,0.0,2013-05-14T18:05:13Z
-GeostatsGuy,Michael Pyrcz,UTAUSTIN,"Austin, TX, USA",,True,"Full Professor at The University of Texas at Austin working on 
+GeostatsGuy,Michael Pyrcz,UTAUSTIN,"Austin, TX, USA",,true,"Full Professor at The University of Texas at Austin working on 
 Spatial Data Analytics, Geostatistics and Machine Learning",43.0,3424.0,12.0,2017-09-17T19:47:38Z
 benlesh,Ben Lesh,,"Austin, TX",,,,153.0,2854.0,43.0,2012-03-15T14:24:15Z
 ContinuumIO,"Anaconda, Inc. (formerly Continuum Analytics, Inc.)",,"Austin, TX",info@anaconda.com,,"Advanced data processing, analysis, and visualization tools for Python & R.",182.0,2534.0,0.0,2011-10-28T20:03:07Z
@@ -21,37 +21,37 @@ pfrazee,Paul Frazee,BLUESKY,"Austin, TX",,,Developer at Bluesky,249.0,2050.0,15.
 dhg,Dave Gamache,,Austin,,,,14.0,1921.0,4.0,2011-03-27T20:03:19Z
 aweary,Brandon Dail,DISCORD,"Austin, TX",,,"Staff Engineer at @discord working on Design Systems and Accessibility. Previously @facebook, @FormidableLabs. Helped maintain @reactjs once upon a time.",268.0,1843.0,227.0,2014-03-07T18:19:20Z
 hdm,HD Moore,RUNZEROINC,"Austin, TX",,,,32.0,1842.0,6.0,2011-11-04T03:08:58Z
-mrocklin,Matthew Rocklin,COILED,"Austin, TX",,True,,258.0,1804.0,0.0,2010-06-16T02:36:34Z
+mrocklin,Matthew Rocklin,COILED,"Austin, TX",,true,,258.0,1804.0,0.0,2010-06-16T02:36:34Z
 JessicaSachs,Jess,IONIC-TEAM,"Austin, TX",,,"Senior Engineer @herodevs
 
 Prev: @stenciljs @cypress-io, @vuejs Test Utils. Occasional contributor to @vueuse @vitest-dev",167.0,1549.0,44.0,2012-11-15T02:24:19Z
 codinghemp,William Smith,,America/Austin,,,I am a hacker and not a criminal or unethical techie; I see the world differently and I  want to learn how technology works and use it for positive purposes.,18.0,1531.0,5837.0,2022-09-27T08:28:27Z
 srowen,Sean Owen,DATABRICKS,"Austin, TX",,,"Applied research @ Mosaic @ Databricks. Formerly Principal DS/ML Specialist @ Databricks.  Apache Spark PMC / committer. Primary author, zxing and Oryx project.",14.0,1498.0,1.0,2011-06-01T08:17:49Z
-ruotianluo,Ruotian(RT) Luo,WAYMO,Austin,,True,Waymo Perception SWE. Phd graduate from TTIC.,112.0,1472.0,445.0,2015-11-25T20:38:37Z
+ruotianluo,Ruotian(RT) Luo,WAYMO,Austin,,true,Waymo Perception SWE. Phd graduate from TTIC.,112.0,1472.0,445.0,2015-11-25T20:38:37Z
 aaronabramov,Aaron Abrams,,"Austin, TX",,,,132.0,1455.0,66.0,2011-07-26T17:17:44Z
-pry0cc,pry0cc,,"Austin, TX",,True,Inventor of Axiom,111.0,1370.0,37.0,2013-05-03T19:58:45Z
-teoliphant,Travis E. Oliphant,"QUANSIGHT, OPENTEAMS","Austin, TX",,True,"NumPy, SciPy, Numba, Conda, PyData, NumFocus, Anaconda, Quansight, OpenTeams",33.0,1228.0,25.0,2010-04-27T21:53:47Z
+pry0cc,pry0cc,,"Austin, TX",,true,Inventor of Axiom,111.0,1370.0,37.0,2013-05-03T19:58:45Z
+teoliphant,Travis E. Oliphant,"QUANSIGHT, OPENTEAMS","Austin, TX",,true,"NumPy, SciPy, Numba, Conda, PyData, NumFocus, Anaconda, Quansight, OpenTeams",33.0,1228.0,25.0,2010-04-27T21:53:47Z
 PaulRashidi,Paul Rashidi,GOOGLE,"Austin, TX, USA",,,,6.0,1201.0,2.0,2010-10-12T22:08:27Z
 brianc,Brian C,,"Austin, TX",,,,154.0,1171.0,35.0,2009-01-29T00:04:40Z
 nathanchapman,Nathan Chapman,GIBSONAI,"Austin, TX",,,Principal Engineer @GibsonAI,10.0,1166.0,112.0,2013-04-02T01:56:18Z
 thirtythreeforty,George Hilliard,AWS,"Austin, TX",,,"Computer engineer with a passion for embedded systems, free software, and Linux. Amateur photographer, mechanic, and musician.",55.0,1133.0,19.0,2013-03-23T23:38:36Z
-leecalcote,Lee Calcote,LAYER5,"Austin, TX",,True,"Cloud native and its management.             
+leecalcote,Lee Calcote,LAYER5,"Austin, TX",,true,"Cloud native and its management.             
 Hiring. See https://layer5.io/careers",89.0,1122.0,6.0,2014-05-13T15:02:02Z
 apoelstra,Andrew Poelstra,BLOCKSTREAM,"Austin, TX, USA",,,,90.0,1097.0,24.0,2012-01-19T07:48:27Z
-ericclemmons,Eric Clemmons,,"Austin, Texas",,True,"Engineering leader specializing in autonomous, outcome-driven remote teams.
+ericclemmons,Eric Clemmons,,"Austin, Texas",,true,"Engineering leader specializing in autonomous, outcome-driven remote teams.
 
 Open-source JavaScript/Node.js developer focused on UX/DX.
 ",211.0,1054.0,23.0,2008-06-26T19:45:44Z
 jduck,Joshua J. Drake,FOUNDER AND SOFTWARE SECURITY SPECIALIST AT  MAGNETITE SECURITY,"Austin, TX",,,Securing the future through modern technology. ,44.0,1031.0,80.0,2010-11-13T07:10:46Z
-nateraw,Nathan Raw,,"Austin, TX",,True,"
+nateraw,Nathan Raw,,"Austin, TX",,true,"
     
     
     Pretending to program
 
 
 ",123.0,1025.0,411.0,2017-10-01T17:08:15Z
-Ir1d,Dejia Xu,"VITA-GROUP, UT AUSTIN, PKU, @24OI","Austin, TX",,True,雨夜 不必撑伞,141.0,979.0,1337.0,2015-01-26T14:23:19Z
-wybiral,davy,,"Austin, TX",,True,"making and breaking
+Ir1d,Dejia Xu,"VITA-GROUP, UT AUSTIN, PKU, @24OI","Austin, TX",,true,雨夜 不必撑伞,141.0,979.0,1337.0,2015-01-26T14:23:19Z
+wybiral,davy,,"Austin, TX",,true,"making and breaking
 ",97.0,969.0,8.0,2012-12-20T18:23:21Z
 tpolecat,Rob Norris,GEMINI OBSERVATORY,"Austin, TX",,,mimimum viable programmer,132.0,941.0,2.0,2011-11-16T18:21:05Z
 billerickson,Bill Erickson,,"Austin, TX",,,,91.0,830.0,5.0,2011-03-23T01:47:07Z
@@ -59,17 +59,17 @@ adamstac,Adam Stacoviak,THECHANGELOG,"Austin, TX",,,Founder & Editor-in-Chief of
 a-robinson,Alex Robinson,CLOUDFLARE,Austin,,,Currently working on serverless and storage at @cloudflare. Previously built out @cockroachdb internals and worked on @kubernetes at @google in the early days,65.0,809.0,22.0,2014-03-27T20:02:44Z
 hxlnt,Rachel Simone Weil,,"Austin, TX",,,i make the old electronics be cute ok,129.0,800.0,151.0,2014-11-09T23:24:49Z
 ACyphus,Alex Cyphus,,"Austin, Texas",,,PSIRT @ GitHub,45.0,799.0,17.0,2011-08-16T15:34:07Z
-shergin,Valentin Shergin,COINBASE,"Austin, TX",,True,"Decentralized Finance at @Coinbase.
+shergin,Valentin Shergin,COINBASE,"Austin, TX",,true,"Decentralized Finance at @Coinbase.
 Previously React Native Core at @Facebook.",29.0,769.0,83.0,2008-08-26T13:08:50Z
 lecoursen,Laura Coursen,GITHUB,"Austin, TX",,,"Technical writer, wife, mom, huge nerd.",11.0,763.0,3.0,2015-10-02T03:42:52Z
-jnewland,Jesse Newland,URCOMPUTERINGPAL,"Austin, TX",,True,💻🛠️🎵🌱✈️🐶,128.0,755.0,102.0,2008-01-25T02:28:12Z
-KilledByAPixel,Frank Force,INDEPENDENT DEVELOPER,"Austin, TX",,True,Generative Artist • Game Designer • Software Engineer • Tiny Code Expert • Musician • Zen Buddhist • Friend to Cats,28.0,744.0,24.0,2015-12-09T16:19:40Z
+jnewland,Jesse Newland,URCOMPUTERINGPAL,"Austin, TX",,true,💻🛠️🎵🌱✈️🐶,128.0,755.0,102.0,2008-01-25T02:28:12Z
+KilledByAPixel,Frank Force,INDEPENDENT DEVELOPER,"Austin, TX",,true,Generative Artist • Game Designer • Software Engineer • Tiny Code Expert • Musician • Zen Buddhist • Friend to Cats,28.0,744.0,24.0,2015-12-09T16:19:40Z
 devinsays,Devin Price,WP THEMING,"Austin, Texas",,,"Devin is a full-stack developer based in Austin, Texas. Building interesting things with WooCommerce @ Universal Yums.",51.0,742.0,11.0,2010-10-08T04:27:19Z
 MrChromebox,MrChromebox,,"Austin, TX",,,,24.0,739.0,0.0,2011-07-30T18:09:10Z
 aaronj1335,Aaron Stacy,GOOGLE,"Austin, Texas",,,a credible developer wouldn't know this much about shell scripting,124.0,739.0,36.0,2011-05-13T23:14:21Z
 hone,Terence Lee,HEROKU,"Austin, TX",,,Blue Hat League,298.0,723.0,28.0,2008-07-09T00:55:04Z
 caniszczyk,Chris Aniszczyk,LINUX FOUNDATION,"Austin, TX USA",,,always paying it forward,77.0,722.0,7.0,2009-03-16T01:47:00Z
-juliacodes,Julia Johnson,IBM - CIO,"Austin, TX",,True,UX Engineer | IBM,23.0,692.0,13.0,2017-09-18T19:48:51Z
+juliacodes,Julia Johnson,IBM - CIO,"Austin, TX",,true,UX Engineer | IBM,23.0,692.0,13.0,2017-09-18T19:48:51Z
 danielfrg,Daniel Rodriguez,NVIDIA,"Austin, TX",,,,108.0,675.0,163.0,2012-03-27T18:08:21Z
 yukezhu,Yuke Zhu,UT AUSTIN / NVIDIA,"Austin, TX",,,,7.0,657.0,7.0,2011-11-13T23:58:32Z
 bmeck,Bradley Farias,,"Austin, Texas",,,,353.0,635.0,22.0,2010-04-01T03:54:12Z
