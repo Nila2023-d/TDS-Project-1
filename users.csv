@@ -1,0 +1,563 @@
+login,name,company,location,email,hireable,bio,public_repos,followers,following,created_at
+getify,Kyle Simpson,GETIFY SOLUTIONS,"Austin, TX",getify@gmail.com,True,Kyle Simpson is a Human-Centric Technologist. He's fighting for the people behind the pixels.,69,43934,2,2009-11-08T06:56:21Z
+benawad,Ben Awad,VOIDPET,"Austin, TX",,None,"React.js, Typescript, Node.js, PostgreSQL",254,29015,4,2014-06-12T15:55:20Z
+steveklabnik,Steve Klabnik,OXIDECOMPUTER,"Austin, TX",steve@steveklabnik.com,None,All i'm trying to do is enjoy every day to the fullest with my Pokémon.,832,6805,206,2008-10-06T17:40:28Z
+cloudflare,Cloudflare,,"San Francisco, London, Austin, Lisbon, Singapore",,None,,475,6442,0,2010-06-25T01:24:59Z
+jbogard,Jimmy Bogard,"JIMMY BOGARD CONSULTING, LLC","Austin, TX",jimmy.bogard@gmail.com,None,"The Barley Architect, Architect Consultant",139,5944,3,2009-07-13T18:05:22Z
+EvanBacon,Evan Bacon,EXPO,Austin TX,baconbrix@gmail.com,None,Building 𝝠 Expo • Follow me on 𝕏 for updates 🥓,302,4598,90,2014-11-10T22:01:21Z
+progrium,Jeff Lindsay,PROGRIUM TECHNOLOGY COMPANY,"Austin, TX",progrium@gmail.com,None,,260,3809,93,2008-02-22T20:00:53Z
+oracle,Oracle,,"Austin, TX",opensource_ww_grp@oracle.com,None,Open Source at Oracle,285,3722,0,2013-05-14T18:05:13Z
+GeostatsGuy,Michael Pyrcz,UTAUSTIN,"Austin, TX, USA",mpyrcz@austin.utexas.edu,True,"Full Professor at The University of Texas at Austin working on 
+Spatial Data Analytics, Geostatistics and Machine Learning",43,3434,12,2017-09-17T19:47:38Z
+benlesh,Ben Lesh,,"Austin, TX",ben@benlesh.com,None,,153,2854,43,2012-03-15T14:24:15Z
+ContinuumIO,"Anaconda, Inc. (formerly Continuum Analytics, Inc.)",,"Austin, TX",info@anaconda.com,None,"Advanced data processing, analysis, and visualization tools for Python & R.",182,2534,0,2011-10-28T20:03:07Z
+davatron5000,Dave Rupert,PARAVEL,"Austin, TX",,None,Co-founder of Luro. Lead developer at Paravel. Co-host of ShopTalkShow. Purveyor of tiny jQueries.,59,2477,41,2008-12-23T03:50:27Z
+schneems,Richard Schneeman,SCHNEEMS,"Austin, Tx",richard.schneeman+no-recruiters@gmail.com,None,"Ruby core contributor. Learn how to contribute to open source with my app CodeTriage (free) and my book How to Open Source (paid), links below 👇🏻",481,2438,4,2009-03-03T16:11:07Z
+wardviaene,Edward Viaene,IN4IT,"Austin, TX",,None,,54,2373,3,2014-05-27T08:21:28Z
+mikermcneil,Mike McNeil,FLEET (@FLEETDM),"Austin, Texas",,None,"CEO, Fleet.  Creator & BDFL, sails.js",223,2340,281,2011-02-14T20:51:12Z
+SlexAxton,Alex Sexton,STRIPE,"Austin, TX",,None,<script>alert(1)</script>,137,2283,40,2009-06-18T05:23:06Z
+kentonv,Kenton Varda,CLOUDFLARE,"Austin, TX",kenton@cloudflare.com,None,"Tech lead of Cloudflare Workers, Cap'n Proto, Sandstorm.io.",46,2114,2,2013-03-29T02:36:56Z
+pfrazee,Paul Frazee,BLUESKY,"Austin, TX",pfrazee@gmail.com,None,Developer at Bluesky,249,2052,15,2011-12-17T20:02:32Z
+dhg,Dave Gamache,,Austin,,None,,14,1922,4,2011-03-27T20:03:19Z
+aweary,Brandon Dail,DISCORD,"Austin, TX",,None,"Staff Engineer at @discord working on Design Systems and Accessibility. Previously @facebook, @FormidableLabs. Helped maintain @reactjs once upon a time.",268,1844,227,2014-03-07T18:19:20Z
+hdm,HD Moore,RUNZEROINC,"Austin, TX",,None,,32,1842,6,2011-11-04T03:08:58Z
+mrocklin,Matthew Rocklin,COILED,"Austin, TX",,True,,258,1803,0,2010-06-16T02:36:34Z
+JessicaSachs,Jess,IONIC-TEAM,"Austin, TX",jess@jessicasachs.io,None,"Senior Engineer @herodevs
+
+Prev: @stenciljs @cypress-io, @vuejs Test Utils. Occasional contributor to @vueuse @vitest-dev",167,1549,44,2012-11-15T02:24:19Z
+codinghemp,William Smith,,America/Austin,,None,I am a hacker and not a criminal or unethical techie; I see the world differently and I  want to learn how technology works and use it for positive purposes.,18,1531,5837,2022-09-27T08:28:27Z
+srowen,Sean Owen,DATABRICKS,"Austin, TX",sean.owen@databricks.com,None,"Applied research @ Mosaic @ Databricks. Formerly Principal DS/ML Specialist @ Databricks.  Apache Spark PMC / committer. Primary author, zxing and Oryx project.",14,1498,1,2011-06-01T08:17:49Z
+ruotianluo,Ruotian(RT) Luo,WAYMO,Austin,rluo@ttic.edu,True,Waymo Perception SWE. Phd graduate from TTIC.,112,1472,445,2015-11-25T20:38:37Z
+aaronabramov,Aaron Abrams,,"Austin, TX",,None,,132,1455,66,2011-07-26T17:17:44Z
+pry0cc,pry0cc,,"Austin, TX",,True,Inventor of Axiom,111,1373,37,2013-05-03T19:58:45Z
+teoliphant,Travis E. Oliphant,"QUANSIGHT, OPENTEAMS","Austin, TX",teoliphant@gmail.com,True,"NumPy, SciPy, Numba, Conda, PyData, NumFocus, Anaconda, Quansight, OpenTeams",33,1228,25,2010-04-27T21:53:47Z
+PaulRashidi,Paul Rashidi,GOOGLE,"Austin, TX, USA",,None,,6,1201,2,2010-10-12T22:08:27Z
+brianc,Brian C,,"Austin, TX",brian.m.carlson@gmail.com,None,,154,1171,35,2009-01-29T00:04:40Z
+nathanchapman,Nathan Chapman,GIBSONAI,"Austin, TX",nathantaylorchapman@gmail.com,None,Principal Engineer @GibsonAI,10,1166,113,2013-04-02T01:56:18Z
+thirtythreeforty,George Hilliard,AWS,"Austin, TX",thirtythreeforty@gmail.com,None,"Computer engineer with a passion for embedded systems, free software, and Linux. Amateur photographer, mechanic, and musician.",55,1134,19,2013-03-23T23:38:36Z
+leecalcote,Lee Calcote,LAYER5,"Austin, TX",,True,"Cloud native and its management.             
+Hiring. See https://layer5.io/careers",89,1121,6,2014-05-13T15:02:02Z
+apoelstra,Andrew Poelstra,BLOCKSTREAM,"Austin, TX, USA",apoelstra@wpsoftware.net,None,,90,1097,24,2012-01-19T07:48:27Z
+ericclemmons,Eric Clemmons,,"Austin, Texas",eric@smarterspam.com,True,"Engineering leader specializing in autonomous, outcome-driven remote teams.
+
+Open-source JavaScript/Node.js developer focused on UX/DX.
+",212,1055,23,2008-06-26T19:45:44Z
+jduck,Joshua J. Drake,FOUNDER AND SOFTWARE SECURITY SPECIALIST AT  MAGNETITE SECURITY,"Austin, TX",,None,Securing the future through modern technology. ,44,1031,80,2010-11-13T07:10:46Z
+nateraw,Nathan Raw,,"Austin, TX",,True,"
+    
+    
+    Pretending to program
+
+
+",123,1025,411,2017-10-01T17:08:15Z
+Ir1d,Dejia Xu,"VITA-GROUP, UT AUSTIN, PKU, @24OI","Austin, TX",dejia@utexas.edu,True,雨夜 不必撑伞,141,981,1337,2015-01-26T14:23:19Z
+wybiral,davy,,"Austin, TX",,True,"making and breaking
+",97,969,8,2012-12-20T18:23:21Z
+tpolecat,Rob Norris,GEMINI OBSERVATORY,"Austin, TX",,None,mimimum viable programmer,132,941,2,2011-11-16T18:21:05Z
+billerickson,Bill Erickson,,"Austin, TX",,None,,91,831,5,2011-03-23T01:47:07Z
+adamstac,Adam Stacoviak,THECHANGELOG,"Austin, TX",adam@changelog.com,None,Founder & Editor-in-Chief of Changelog.com,102,819,103,2008-03-12T18:11:06Z
+a-robinson,Alex Robinson,CLOUDFLARE,Austin,alexdwanerobinson@gmail.com,None,Currently working on serverless and storage at @cloudflare. Previously built out @cockroachdb internals and worked on @kubernetes at @google in the early days,65,809,22,2014-03-27T20:02:44Z
+ACyphus,Alex Cyphus,,"Austin, Texas",,None,PSIRT @ GitHub,45,801,17,2011-08-16T15:34:07Z
+hxlnt,Rachel Simone Weil,,"Austin, TX",,None,i make the old electronics be cute ok,129,800,151,2014-11-09T23:24:49Z
+shergin,Valentin Shergin,COINBASE,"Austin, TX",valentin@shergin.com,True,"Decentralized Finance at @Coinbase.
+Previously React Native Core at @Facebook.",29,769,83,2008-08-26T13:08:50Z
+lecoursen,Laura Coursen,GITHUB,"Austin, TX",lecoursen@gmail.com,None,"Technical writer, wife, mom, huge nerd.",11,763,3,2015-10-02T03:42:52Z
+jnewland,Jesse Newland,URCOMPUTERINGPAL,"Austin, TX",jesse@jnewland.com,True,💻🛠️🎵🌱✈️🐶,128,755,102,2008-01-25T02:28:12Z
+KilledByAPixel,Frank Force,INDEPENDENT DEVELOPER,"Austin, TX",,True,Generative Artist • Game Designer • Software Engineer • Tiny Code Expert • Musician • Zen Buddhist • Friend to Cats,28,744,24,2015-12-09T16:19:40Z
+devinsays,Devin Price,WP THEMING,"Austin, Texas",devin@wptheming.com,None,"Devin is a full-stack developer based in Austin, Texas. Building interesting things with WooCommerce @ Universal Yums.",51,742,11,2010-10-08T04:27:19Z
+MrChromebox,MrChromebox,,"Austin, TX",mrchromebox@gmail.com,None,,24,741,0,2011-07-30T18:09:10Z
+aaronj1335,Aaron Stacy,GOOGLE,"Austin, Texas",,None,a credible developer wouldn't know this much about shell scripting,124,739,36,2011-05-13T23:14:21Z
+hone,Terence Lee,HEROKU,"Austin, TX",hone02@gmail.com,None,Blue Hat League,298,723,28,2008-07-09T00:55:04Z
+caniszczyk,Chris Aniszczyk,LINUX FOUNDATION,"Austin, TX USA",caniszczyk@gmail.com,None,always paying it forward,77,722,7,2009-03-16T01:47:00Z
+juliacodes,Julia Johnson,IBM - CIO,"Austin, TX",julia@juliacodes.com,True,UX Engineer | IBM,23,692,13,2017-09-18T19:48:51Z
+danielfrg,Daniel Rodriguez,NVIDIA,"Austin, TX",,None,,108,675,163,2012-03-27T18:08:21Z
+yukezhu,Yuke Zhu,UT AUSTIN / NVIDIA,"Austin, TX",dr.yukezhu@gmail.com,None,,7,657,7,2011-11-13T23:58:32Z
+bmeck,Bradley Farias,,"Austin, Texas",bradley.meck@gmail.com,None,,353,635,22,2010-04-01T03:54:12Z
+Empact,Benjamin Woosley,,"Austin, TX",Ben.Woosley@gmail.com,None,,222,634,90,2008-04-06T22:28:05Z
+hu-po,hu-po,,"Austin, TX",,None,simulation explorer,97,629,256,2014-08-19T15:48:30Z
+HarshKapadia2,Harsh Kapadia,OURTECHCOMMUNITY @AMD,"Austin, TX, USA",contact@harshkapadia.me,None,Software Engineer • Organiser @OurTechCommunity • FAE @amd,93,596,331,2019-04-30T11:56:11Z
+thinkyhead,Scott Lahteine,THINKYHEAD SOFTWARE,"Austin, TX",,None,Indie software developer. Project Maintainer for @MarlinFirmware.,68,593,39,2011-03-29T19:54:31Z
+CodyJasonBennett,Cody Bennett,,"Austin, TX",hi@codyb.co,True,"@pmndrs, @threejs | Mathematician, Physicist | Graphics, Games, Cats",76,591,0,2016-11-07T22:45:51Z
+jeremydmiller,Jeremy D. Miller,JASPERFX,"Austin, TX",jeremydmiller@yahoo.com,None,"The ""Shade Tree Developer""",26,585,12,2010-01-09T20:44:55Z
+daltoniam,Dalton,,"Austin, TX",daltoniam@gmail.com,None,Developer. Disciple. Computer science aficionado. Mobile enthusiast. Drum machine. Rock climbing extraordinaire. The next American Ninja Warrior.,34,583,25,2011-07-09T18:54:44Z
+kcharwood,Kevin Harwood,TECOVAS,"Austin, TX",kcharwood@gmail.com,None,,29,583,1,2010-02-07T03:34:39Z
+achillean,John Matherly,SHODAN,"Austin, TX",jmath@shodan.io,None,,15,576,4,2010-08-23T20:27:29Z
+SiliconLabs,Silicon Labs,,"Austin, TX",,None,"Silicon Labs is a leading provider of solutions for a smarter, more connected world.  The official GitHub account contains officially supported repositories.",137,575,0,2014-05-30T20:33:45Z
+rachaelshaw,Rachael Shaw,SAILS (@SAILSHQ),"Austin, TX",,None,,46,571,7,2012-12-17T19:35:13Z
+mappum,Matt Bell,NOMIC-IO,"Austin, TX",mappum@gmail.com,None,,141,570,269,2010-09-14T01:32:02Z
+Embarcadero,Embarcadero Technologies,,"Austin, TX, USA",info@embarcadero.com,None,"Leading the Way with Innovative, Heterogeneous Software Tools",60,557,0,2015-12-22T20:35:36Z
+landley,Rob Landley,,"Austin, TX",rob@landley.net,None,,6,554,0,2012-02-07T05:13:26Z
+trapexit,,,"Austin, TX",trapexit@spawn.link,True,"['C', 'C++', 'Erlang/OTP', 'Python'].",138,546,1852,2010-02-05T13:01:58Z
+kanzure,Bryan Bishop,,"Austin, Texas",kanzure@gmail.com,None,,161,537,665,2009-07-03T01:20:04Z
+tswicegood,Travis Swicegood,,"Austin, TX",travis@domain51.com,None,,273,523,161,2008-04-02T19:39:15Z
+juntao,Michael Yuan,SECOND STATE,"Austin, TX, USA",michael@secondstate.io,None,,56,518,5,2008-05-19T18:24:48Z
+darius,Darius Bacon,"OPEN TO CONTRACTS, NOT PERM","Austin, TX",withal@gmail.com,True,a meat clown,145,516,128,2008-04-11T17:49:50Z
+bakpakin,Calvin Rose,,"Austin, Texas",calsrose@gmail.com,None,,58,512,52,2013-12-14T15:43:18Z
+zachriggle,Zach Riggle,APPLE,"Austin, TX",,None,,108,503,177,2009-08-04T01:28:49Z
+catid,Chris Taylor,,"Austin, TX",mrcatid@gmail.com,None,"Focus on erasure correction coding (ECC/FEC), cryptography, networking libraries, lossless image compression, Azure Kinect, XR, Large Language Models",127,494,26,2010-04-25T21:44:46Z
+benthecarman,,TAPROOT-WIZARDS,"Austin, TX",,None,"Bitcoin dev
+",154,490,145,2015-10-23T00:30:19Z
+devinus,Devin Alexander Torres,SALESFORCE @REBELMAIL @NANOCURRENCY,"Austin, TX, USA",d@devinus.io,True,"Motivated and enthusiastic software developer with a passion for learning. Code used by @phoenixframework, @supabase, @googleapis, @basho, @2600hz, @irccloud",211,486,44,2008-04-04T00:39:40Z
+titusfortner,Titus Fortner,SAUCE LABS,"Austin, TX",,None,"A (mostly Ruby) open source developer (Selenium, Watir, etc); passionate about digital confidence & improving test automation success.",99,486,0,2011-05-09T15:52:41Z
+prograhammer,David Graham,HOMEDEPOT,"Austin, TX",prograhammer@gmail.com,None,Pursuing all parts of the Web stack. Love helping people. Passionate about clean code.,42,482,0,2013-05-20T01:50:37Z
+pedramamini,Pedram Amini,INQUEST,"Austin, TX",,None,Chief Scientist at @OPSWAT. Formerly CTO at @InQuest. Previously founded the ZeroDayInitiative.com and OpenRCE.org. @pedramamini on Twitter.,43,481,984,2011-12-10T03:56:01Z
+dan,Dan Benjamin,5BY5.TV AND FIRESIDE.FM,"Austin, Texas",dan@benjamin.org,True,Podcaster at 5by5.tv. Founder of Fireside.fm. Way of the future.,7,465,16,2008-02-13T13:22:57Z
+pragmaticivan,Ivan Santos,,Austin-TX,,True,☕️,175,450,1654,2010-06-09T21:41:52Z
+opencomputeproject,Open Compute Project,,"Austin, TX",admin@opencompute.org,None,,122,434,0,2016-01-12T03:10:20Z
+kevinbluer,Kevin Bluer,METAMASK @CONSENSYS,"Austin, TX",kevin@bluer.com,True,"Fanatical about Web3 DX 👨‍💻 CLIs, Full Stack Web, Distributed & Decentralized Systems ❤️ Solidity, Go, TypeScript, React, Node.js, GraphQL, Docker, K8s, AWS ✨",208,434,354,2010-02-25T16:14:24Z
+thoughtpolice,Austin Seipp,,"Austin, TX",,None,i live 400 miles underground,118,431,7,2008-03-19T05:26:09Z
+StephenMayeux,Stephen Mayeux,STEPHEN MAYEUX CONSULTING,Austin,stephenmayeux@gmail.com,None,"Senior Software Engineer. Node.js, PHP, Python, C++, JavaScript, React, React Native",262,429,65,2015-07-28T08:36:02Z
+brandonprry,Brandon Perry,,"Austin, TX",,None,Working hard to make it easier,59,416,0,2010-11-16T02:06:41Z
+chriskacerguis,Chris Kacerguis,,"Austin, TX",,None,"Just a guy in Austin, Texas.  Feel free to check out my Resume https://www.resumonk.com/chriskacerguis",14,412,0,2012-09-24T20:07:57Z
+thobbs,Tyler Hobbs,"ANTICLASSIC STUDIOS, LLC","Austin, TX",tyler@tylerxhobbs.com,None,"
+    Generative artist, Apache Cassandra Committer/PMC.
+",48,410,23,2010-08-05T20:28:12Z
+jhaynie,Jeff Haynie,SHOPMONKEYUS,"Austin, TX",jhaynie@gmail.com,None,"open source developer, CTO of Shopmonkey, previous co-founder/CEO of pinpoint.com, previous co-founder/CEO of Appcelerator",115,403,291,2008-04-09T15:48:25Z
+mateodelnorte,Matt Walters,,Austin,,True,"I make complex things simple. 
+
+I also run the Austin Nodejs Meetup (AustinNodeJS.com)! 
+
+",126,399,25,2011-01-10T00:55:53Z
+RadeonOpenCompute,ROCm Core Technology ,,"Austin, Tx ",,None,ROCm: Platform for GPU Enabled HPC and UltraScale Computing,4,396,0,2016-01-26T14:50:47Z
+cowboyd,Charles Lowell,THEFRONTSIDE,"Austin, TX",cowboyd@frontside.com,None,Secretary of State,270,389,129,2008-04-01T17:27:05Z
+praetorian-inc,Praetorian,,"US (Austin, TX)",info@praetorian.com,None,Praetorian provides a suite of security solutions that enable clients to solve cybersecurity problems across their enterprise and product portfolios.,59,385,0,2014-07-15T21:39:48Z
+jcustenborder,Jeremy Custenborder,CONFLUENTINC,"Austin, TX",jeremy@confluent.io,None,,181,383,4,2010-02-24T09:28:34Z
+brianairb,Brian Pak,THEORI-IO,"Austin, TX",brianairb@gmail.com,None,,7,382,2,2012-05-05T00:26:41Z
+zaradarz,Zara Dar,,"Austin, TX",,None,A person who discovered a passion for computer science.,5,378,1,2022-09-25T17:51:34Z
+hammadmobin,Hammad Mobin,,"Austin, Texas",muhammadhammadmobin@gmail.com,True,MS CS @ Texas State University,56,377,707,2016-12-03T07:28:37Z
+second-state,Second State,,"Austin, TX, USA",contact@secondstate.io,None,"Fast, safe, portable & serverless. Deploy Rust functions in edge computing, Jamstack, SaaS and service mesh applications.",270,375,0,2019-01-29T06:31:31Z
+joshblack,Josh Black,,"Austin, Texas",joshblack@github.com,None,Building design systems @github. Prev @carbon-design-system,214,361,104,2013-03-18T17:56:56Z
+dtao,Dan Tao,ATLASSIAN,"Austin, TX",daniel.tao@gmail.com,None,Head of Engineering for DevOps at @atlassian,183,356,14,2010-09-21T04:35:43Z
+johntfoster,John T. Foster,THE UNIVERSITY OF TEXAS AT AUSTIN,"Austin, Texas",,None,Professor of Petroleum and Geosystems Engineering and Aerospace Engineering and Engineering Mechanics at The University of Texas at Austin,89,354,3,2011-01-31T04:05:28Z
+hassox,Daniel Neighman,,Austin,dneighman@gmail.com,None,,156,353,77,2008-01-30T06:31:06Z
+chadmcrowell,Chad M. Crowell,CIVO,"Austin, TX",chadmcrowell@gmail.com,None,Platform Engineer @civo ,227,353,61,2015-10-06T20:39:49Z
+alicemaz,alice maz,,austin tx,,None,,8,351,8,2015-03-10T14:44:17Z
+rFlex,Simon Corsin,SNAPCHAT,"Austin, TX",simon@corsin.me,None,,31,345,11,2012-07-06T11:41:55Z
+sophshep,Sophie Shepherd,GITHUB,Austin TX,,None,✏ Product design manager,17,340,74,2010-12-17T18:07:02Z
+exodusintel,Exodus Intelligence,EXODUS INTELLIGENCE,"Austin, TX",info@exodusintel.com,None,,7,334,1,2016-01-11T18:02:00Z
+stella3d,Stella Cannefax,,"Austin, TX",,None,"trades & raves
+
+
+",54,334,24,2015-08-31T15:47:22Z
+zsylvester,Zoltán Sylvester,"BUREAU OF ECONOMIC GEOLOGY, UT AUSTIN","Austin, TX",,None,"Geologist interested in analyzing, modeling, and visualizing clastic sedimentary systems
+",21,332,47,2013-08-09T23:33:20Z
+jjasghar,JJ Asghar,IBM,"Austin, Texas",awesome@ibm.com,None,"Father, Husband, Eagle Scout, Beer Nerd, and Computer Nerd. I work as a Developer Advocate for IBM.",199,332,95,2011-05-25T21:55:33Z
+xpl,Vitalik Gordon,NOW @AVRIDE / EX-@YANDEX / EX-@CCXT,"Austin, Texas, United States",,None,🇺🇸 　🇮🇱 　🇺🇦,32,331,24,2008-02-29T08:35:36Z
+dustinkirkland,Dustin Kirkland,CHAINGUARD,"Austin, TX, USA",dustin.kirkland@gmail.com,None,"VP of Engineering @chainguard-dev 
+Open source author and maintainer",54,323,2,2011-06-08T23:32:26Z
+reaperhulk,Paul Kehrer,,Austin,,None,,128,321,3,2009-12-03T17:42:24Z
+gilbert,Gilbert,,"Austin, TX",,None,A humble programmer.,192,318,19,2008-07-14T15:11:51Z
+philkr,Philipp Krähenbühl,UT AUSTIN,"Austin, TX",,None,,16,316,0,2010-11-20T05:25:19Z
+jcran,Jonathan Cran,,"Austin, TX",,None,"cybersecurity stuff, mostly",4,313,233,2009-04-23T03:54:35Z
+irlnathan,Irl Nathan,,Austin,,None,,115,310,1,2012-04-02T15:14:12Z
+DavidAJohnston,David Johnston,MORPHEUS,Austin,DJohnstonEC@gmail.com,None,"Technologist focused on Decentralizing Everything. Interested in Bitcoin, Ethereum, Morpheus & Smart Agents",129,305,171,2012-03-22T05:25:17Z
+birdsarah,Sarah Bird,,"Austin, TX",,None,"Product builder skilled with data and cross-functional collaboration. Python, TypeScript, JavaScript, C++, Rust, Linux, Pandas, Data Viz, CSS, ...",57,303,0,2012-05-30T23:31:51Z
+nodebotanist,Mx. Kassian Rosner Wren,INSTACLUSTR BY NETAPP,"Austin, TX",the@nodebotani.st,None,DevRel Extroerdinaire. Gamer. Catparent. They/them. NodeBots author/addict. Punster. EE Dropout/Self-Study. a.k.a @ATX-Sabine  ,283,302,34,2009-11-04T18:38:51Z
+shortstack,Whitney Champion,LIMACHARLIE,"Austin, TX",whitney.ellis.champion@gmail.com,None,,36,301,70,2011-12-06T16:32:26Z
+scarolan,Sean Carolan,CAROLAN.IO,"Austin, TX",,True,Recovering System Administrator who left the cubicle and pager behind for the SE life,29,298,0,2010-09-16T20:20:04Z
+BDHU,Edward Hu,UNIVERSITY OF TEXAS AT AUSTIN,"Austin, Texas",,True,PhD student in UTNS @ UT Austin.,24,298,114,2014-11-15T07:08:21Z
+alvaromontoro,Alvaro Montoro,,"Austin, TX",alvaromontoro@gmail.com,None,"Full-Stack Software Engineer, Mobile Developer, Web technologies enthusiast. CSS aficionado. Active moderator in StackOverflow en Español.",40,296,67,2012-08-23T15:33:22Z
+joshtronic,Josh Sherman,HOLIDAYAPI @MAILSHAKE,"Austin, TX",github@joshtronic.com,None,Husband. Father. Pug dad. Born again Linux user.,68,295,198,2009-08-07T01:05:19Z
+jalapic,James Curley,,"Austin, Texas",,None,"Associate Professor,
+Psychology Department,
+University of Texas at Austin",94,292,3,2014-06-15T22:26:16Z
+mrflip,Philip (flip) Kromer,TOOKSTOCK.COM,"Austin, TX USA",flip@tooksome.com,None,"Founder of Infochimps, Vigilantebar, Tookstock. EIR at Capital Factory, Dir Community at ATX Hackerspace. He/Him.",144,290,135,2008-04-09T21:58:47Z
+BusterNeece,Buster Neece,DASH DEVELOPMENT,"Austin, TX, USA",buster@busterneece.com,None,A friend of FOSS with a voice (and face) for radio! Creator and maintainer of the @AzuraCast web radio suite.,8,289,37,2014-02-21T05:37:20Z
+Arinerron,Aaron Esau,"ZELLIC, REDPWN/OSUSEC/DICEGANG","Austin, TX",me@aaronesau.com,True,web3/CTF,107,287,0,2013-03-21T02:09:54Z
+ryanhlewis,Ryan Hardesty Lewis,"GOOD-SYSTEMS, @TACC, @EGADSAUSTIN",Austin,rhl@utexas.edu,None,"A little bit of what I've worked on so far. Feel free to use any of it, all is public domain or GPL.",58,286,1330,2020-12-23T23:47:48Z
+jonthegeek,Jon Harmon,DSLC-IO,"Austin, TX",jonthegeek@gmail.com,True,"Executive Director at DSLC.io (fka @r4ds) | Advanced R Programming Consultant | I live in Austin, Texas, with my spouse, two children, and two large dogs.",158,285,70,2017-11-25T14:48:43Z
+DavidStinson,David Stinson,,"Austin, TX",,None,,122,284,247,2019-04-03T15:46:41Z
+nklayman,Noah Klayman,,"Austin, TX",noahklayman@gmail.com,None,CS student @ UT Austin; looking to dive deeper into the world of systems programming and computer architecture.,47,283,8,2015-05-14T16:37:41Z
+yifanjiang19,Yifan Jiang,,"Austin, Texas, USA",,None,"Research Scientist at Apple AI/ML
+Ph.D at University of Texas at Austin",34,281,87,2015-09-29T16:01:44Z
+luwes,Wesley Luyten,MUXINC,"Austin, TX",me@wesleyluyten.com,True,"Coder, mnmalist, UI/video @muxinc ",69,280,209,2010-08-11T11:27:31Z
+zobront,Zach Obront,,"Austin, TX",,None,,56,279,1,2013-10-22T17:20:51Z
+syedhali,Syed Haris Ali,AUSOMEAPPS,Austin,haris@ausomeapps.com,True,,42,278,47,2011-12-20T16:15:04Z
+dbaldwin,Dennis Baldwin,DRONEBLOCKS,"Austin, TX",,None,Software and drones,104,275,15,2008-12-04T18:34:53Z
+akutz,Andrew Kutz,VMWARE,"Austin, TX",,None,"A father, husband, friend, son, and VMware engineer.",196,274,0,2009-07-02T15:37:53Z
+evanlucas,Evan Lucas,,"Austin, TX",evanlucas@me.com,True,@nodejs TSC Emeritus,283,273,66,2011-03-18T23:38:32Z
+holtskinner,Holt Skinner,GOOGLE,"Austin, TX",,None,"Developer Advocate, Google Cloud AI",66,271,176,2015-07-09T21:10:44Z
+wickett,James Wickett,DRYRUN SECURITY,"Austin, TX",,None,,66,270,50,2008-12-18T18:25:04Z
+wpengine,WP Engine,,"Austin, TX",,None,WP Engine provides managed hosting for mission critical sites built on WordPress around the world.,43,268,0,2011-04-24T19:48:37Z
+gnomeontherun,Jeremy Wilken,GNOME ON THE RUN,"Austin, Texas",,True,@google developer expert for @angular and @actions-on-google,156,266,45,2009-04-30T09:26:52Z
+sanity,Ian Clarke,FREENET,Austin TX,,None,"Degree in CS & AI.  Creator of freenet.org, kweb.io, 33mail.com.",58,266,21,2008-09-03T22:28:41Z
+ospencer,Oscar Spencer,,"Austin, TX",oscar@grain-lang.org,None,Co-author of the Grain programming language & empowering developers through WebAssembly 🤓,47,266,5,2014-04-09T21:57:19Z
+mdbartos,Matt Bartos,"FUTURE-WATER, @ESIPFED","Austin, TX",mdbartos@utexas.edu,None,Assistant Professor of Civil Engineering at UT Austin,34,265,65,2014-07-16T02:05:27Z
+paulczar,Paul Czarkowski,,"Austin, TX",username.taken@gmail.com,None,,381,264,0,2012-10-04T18:02:21Z
+particlebanana,Cody Stoltman,,"Austin, TX",,None,,72,261,26,2010-08-20T00:11:08Z
+sebersole,Steve Ebersole,JBOSS / RED HAT / IBM,"Austin, TX",steve@hibernate.org,None,Project lead for the Hibernate ORM project.  Developer of Gradle plugins.  OSS advocate.  Outdoor advocate ;),59,261,1,2010-03-31T22:28:46Z
+sahin,Sahin Boydas,,Austin,,None,,40,260,0,2012-10-08T04:31:26Z
+markmarkoh,Mark DiMarco,HEAD OF ENGINEERING @ BUILDFORCE,"Austin, TX",mark.dimarco@gmail.com,None,,49,260,3,2008-05-23T05:36:57Z
+jdorn,Jeremy Dorn,GROWTH BOOK,"Austin, TX",jeremy@jeremydorn.com,None,,22,258,0,2011-09-28T17:23:37Z
+msarahan,Mike Sarahan,NVIDIA,"Austin, TX",msarahan@gmail.com,None,,353,256,16,2008-12-04T22:21:11Z
+jbednar,James A. Bednar,"ANACONDA, INC.","Austin, TX",jbednar@anaconda.com,None,"Director of Professional Services at Anaconda, Inc., founder of the HoloViz project, and former Reader in Computational Neuroscience at University of Edinburgh.",25,255,1,2012-05-01T13:43:56Z
+bradgarropy,Brad Garropy,STRIPE,"Austin, Texas",bradgarropy@gmail.com,True,,135,254,29,2015-03-05T17:54:02Z
+benbrown,Ben Brown,HACKER,"Austin, TX",benbrown@gmail.com,None,Old internet punk. Creator of Shuttlecraft. Creator of Botkit.,29,254,43,2011-04-14T17:48:26Z
+fredemmott,Fred Emmott,,"Austin, TX",,None,,150,254,13,2010-08-11T13:20:17Z
+nicolaka,Nicola Kabar,HASHICORP,"Austin, TX",,None,,106,254,8,2015-02-21T20:13:41Z
+brad-decker,Brad Decker,CONCIERGEAUCTIONS,"Austin, Tx",,None,Principal Software Engineer @ConciergeAuctions ,43,251,70,2013-05-16T13:52:08Z
+drusellers,Dru Sellers,A CURIOUS MIND,"Austin, TX",dru@drusellers.com,None,"Currently building https://messageaid.com - a UI tool for messaging based systems.
+",77,250,2,2009-03-14T10:49:59Z
+jbellis,Jonathan Ellis,DATASTAX,"Austin, TX",jbellis@gmail.com,None,,67,250,3,2008-12-22T20:15:08Z
+JacobMGEvans,Jacob M-G Evans,CLERK,"Austin, TX",,True,Sr. DevX Engineer @Clerk | Father | Autistic | Air Force Veteran | Hardware Enthusiast | Camping & Hiking 🏕️ | Trekkie | D&D | OSS Enthusiast,76,246,74,2017-04-10T22:40:10Z
+TrentWalton,Trent Walton,HTTP://PARAVELINC.COM,"Austin, TX",,None,,3,246,12,2010-05-08T18:07:31Z
+splittingred,Shaun McCormick,BIGCOMMERCE,"Austin, TX",splittingred@gmail.com,None,"Principal eng @bigcommerce, formerly @modxcms, UT-Austin. distributed systems/architecture/mesh/grpc. likes fruit snacks.",91,245,235,2010-03-30T13:05:14Z
+jiaaro,James Robert,KIZEN,"Austin, TX",jiaaro@gmail.com,None,,61,244,41,2010-03-29T13:00:25Z
+sh1mmer,Tom Croucher,,"Austin, TX, USA",,None,,39,243,32,2008-12-02T01:10:01Z
+epixoip,Jeremi M Gosney,,"Austin, TX",jeremi.gosney@gmail.com,True,,19,242,19,2013-04-11T03:55:06Z
+handcraftsman,Cℓinton Sheppard,MVBALAW,"Austin, TX",fluentcoder@gmail.com,None,"I am a polyglot programmer with more than 15 years of professional programming experience, and author of 20+ books including: Genetic Algorithms with Python.",30,241,1,2010-04-01T04:05:04Z
+jeffreybiles,Jeffrey Biles,HAPPY PROGRAMMER LLC,"Austin, TX",bilesjeffrey@gmail.com,True,,124,241,1,2011-06-09T04:04:40Z
+JoshuaWise,Joshua Wise,,"Austin, TX",,None,"Tech Lead, experienced in C++ and JavaScript/TypeScript, interested in programming languages and compilers.",40,240,0,2014-07-24T10:12:07Z
+gfontenot,Gordon Fontenot,CASHAPP,"Austin, TX",gordon@fonten.io,None,iOS and Haskell and Dumb Domain Names,43,240,107,2009-09-08T13:22:12Z
+JFrankfurt,Jordan Frankfurt,🔵,"Austin, TX",jordan.frankfurt@coinbase.com,True,촐단,94,238,117,2013-10-25T10:46:08Z
+bigcommerce,BigCommerce,,"SF, Austin, Sydney, Kyiv",,None,,264,236,0,2010-01-20T17:36:18Z
+aterrel,Andy R. Terrel,NVIDIA,"Austin, TX",andy.terrel@gmail.com,None,,78,236,28,2008-10-23T12:01:52Z
+peteanderson80,Peter Anderson,GOOGLE RESEARCH,"Austin, Texas USA",,None,,8,234,3,2011-09-16T01:56:41Z
+jamesbornholt,James Bornholt,AWS,Austin,bornholt@cs.utexas.edu,None,computerer,45,234,13,2011-05-24T12:49:35Z
+allada,Nathan (Blaise) Bruer,TRACE MACHINA,"Austin, TX, USA",github.blaise@allada.com,None,"I work on complex systems. I've worked on Chrome (at Google), Self-driving Vehicles (at Toyota Research) and Robotics (at GoogleX).",50,234,2,2012-06-08T16:05:07Z
+iMerica,Michael,,"Austin, Texas / SF, Bay Area",,None,"Engineering Leader, Founder 
+- Platform & Product",188,233,253,2010-11-19T02:30:51Z
+jpotts,Jeff Potts,"APPLE, INC.","Austin, TX",,True,"Software engineer focused on solving problems leveraging open source content management, search, and workflow technology",68,230,0,2012-06-27T21:10:05Z
+karthequian,Karthik Gaekwad,,"Austin, Texas",,None,,70,229,24,2010-08-03T18:58:32Z
+sfomel,Sergey Fomel,THE UNIVERSITY OF TEXAS AT AUSTIN,"Austin, TX",,None,,13,228,6,2013-05-13T22:39:56Z
+realityexpander,Chris Athanas,FRED'S HISTORY TECHNOLOGY,"Austin, TX, USA & Tepoztlán, Morelos, Mexico",realityexpanderdev@gmail.com,None,"Senior KMP/Android/iOS Software Developer, Seeming Mostly Human",469,227,55,2013-08-04T00:16:17Z
+bradyz,Brady Zhou,,"Austin, Texas",,True,hey,30,226,73,2014-05-27T18:55:19Z
+MasonEgger,Mason Egger,TEMPORALIO,"Austin, TX",,None,"Developer Educator at Temporal, Community Organizer, owner of Labradors
+",36,226,9,2015-02-26T16:16:11Z
+rfdickerson,Robert F. Dickerson,,"Austin, TX",,True,Machine Learning Engineer,178,225,236,2012-01-06T20:30:02Z
+jenperson,Jen Person,SQUIDCLOUDIO,"Austin, TX",,True,,35,224,3,2016-04-06T02:24:15Z
+kalefranz,Kale Franz,"ANACONDA, INC.","Austin, TX",,None,"Former Principal Engineer at Anaconda, Inc. Previously a devops tech lead at 23andMe. EE PhD in semiconductors and optics.",94,222,6,2012-02-08T04:15:47Z
+jeffamstutz,Jefferson Amstutz,NVIDIA,"Austin, TX",jeffamstutz@gmail.com,None,,87,221,402,2013-02-20T20:00:44Z
+jeffreypalermo,Jeffrey Palermo,"CLEAR MEASURE, INC.","Austin, TX",jeffrey@clear-measure.com,None,,33,220,25,2009-07-12T20:14:40Z
+AdamBrodzinski,Adam Brodzinski,,"Austin, TX",adambrodzinski@gmail.com,True,,49,220,28,2012-02-17T03:23:00Z
+magento-engcom-team,Magento Community Engineering ,"MAGENTO, AN ADOBE COMPANY","Austin, TX",,None,,1,220,0,2017-09-05T19:43:29Z
+okyeron,Steven Noreyko,,Austin TX,,None,,100,219,6,2012-06-30T20:52:52Z
+Just-Moh-it,Mohit Yadav,,"Austin, TX",mohit@mohitya.dev,True,I like emojis and building cool stuff 🔥,52,218,100,2019-03-27T16:11:17Z
+koltyakov,Andrew Koltyakov,,"Austin, TX",andrew.koltyakov@gmail.com,True,"Solutions Architect, Microsoft MVP",50,217,21,2014-06-06T14:36:45Z
+wbobeirne,Will O'Beirne,,"Austin, TX",,None,,155,216,4,2011-03-03T23:56:15Z
+ArturoNereu,Arturo Nereu,,"Austin, Texas",,None,"Fueled by books, video games, and code.",33,216,13,2010-05-04T00:49:30Z
+jasonappah,Jason Antwi-Appah,,"Austin, TX",hey@jasonaa.me,None,computers are cool and @hackclub is too :) // cs student @utdal ,84,214,546,2017-07-31T23:15:09Z
+devrim,Devrim Yasar,LUCKY ROBOTS,Austin,,None,,28,213,4,2010-02-14T16:09:30Z
+ChrisMissal,Chris Missal,,"Austin, TX",,None,,189,212,207,2009-03-27T11:55:28Z
+baronfel,Chet Husk,MICROSOFT,Austin,,None,"@ionide maintainer,  .NET SDK/MSBuild/Template Engine PM",265,212,19,2011-01-20T05:25:40Z
+jasonppy,Puyuan Peng,THE UNIVERSITY OF TEXAS AT AUSTIN,"Austin, TX",,True,,16,211,27,2019-02-18T02:47:01Z
+giannisdaras,Giannis Daras,,"Austin, USA",giannisdaras@utexas.edu,True,"Machine Learning Researcher. Ph.D. student, UT Austin.",95,210,63,2015-11-27T13:45:53Z
+sgress454,Scott Gress,OLONO,"Austin, TX",scottmgress@gmail.com,None,http://www.superamazing.website,63,209,7,2011-01-08T18:09:49Z
+FellowTraveler,FellowTraveler,,"Austin, TX",F3llowTraveler@gmail.com,None,"Creator of Open-Transactions. Interests: Financial cryptography, AI and machine learning, semantic graph, autocoding, agentic orchestration, agent architecture.",638,206,10,2010-07-21T01:21:08Z
+sylvanc,Sylvan Clebsch,MICROSOFT,"Austin, TX",,None,,14,205,0,2012-11-13T07:33:00Z
+alex-miller-0,Alex Miller,GRIDPLUS,"Austin, TX",,None,,56,204,6,2014-04-22T23:21:19Z
+bgentry,Blake Gentry,,"Austin, TX",,None,,217,203,0,2009-08-11T05:04:47Z
+Noah-Kennedy,Noah Kennedy,CLOUDFLARE,"Austin, Texas",noah@despise.computer,None,"Systems engineer by day, network performance junkie by night.
+
+Working @cloudflare.
+
+tokio.rs core team member",133,203,77,2014-11-21T01:46:07Z
+manton,Manton Reece,MICRODOTBLOG,"Austin, TX",,None,Founder of Micro.blog.,25,203,3,2008-06-02T14:21:04Z
+chriswahl,Chris Wahl,WAHLNETWORK,"Austin, TX",github@wahlnetwork.com,None,Pragmatic technologist.,1,201,22,2013-06-30T02:34:44Z
+smashism,emily,AUSTINAPPLEADMINS,"Austin, TX",hellomodtitan@gmail.com,None,"mac IT wonk, music doctor",54,201,6,2014-06-10T20:10:22Z
+sklam,Siu Kwan Lam,,Austin TX,,None,,70,200,1,2012-07-05T22:13:18Z
+koverholt,Kristopher Overholt,GOOGLE,"Austin, TX",,None,Developer Advocate at Google,71,198,5,2010-06-12T00:07:33Z
+DataDaimon,Richard Martin Flores,,"Austin, Texas",datadaimon@outlook.com,None,"Machine Learning @ Stanford | MS Data Analytics | MBA | BS Physics |
+Machine Learning, AI, Big Data, Visualizations",15,198,196,2020-05-10T04:16:34Z
+dokun1,David Okun,LTK,"Austin, TX",david@okun.io,None,eng @ LTK,121,198,45,2012-10-17T22:54:47Z
+PaulBratslavsky,Paul Bratslavsky,,"Austin, TX.",,None,"HTML | CSS | JAVASCRIPT |
+REACT | REMIX | NEXT JS |  NODE JS | KOA | STRAPI",574,197,27,2013-12-10T15:45:53Z
+drewcrawford,Drew Crawford,DREWCRAWFORDAPPS,"Austin, TX",drew@sealedabstract.com,True,"Swift, iOS, Rust, C",71,197,10,2010-01-16T05:27:02Z
+dlo,Dan Loewenherz,CHAMPIFYIO,"Austin, TX",dan@champify.io,None,building @champifyio ,117,196,174,2008-12-05T02:46:50Z
+sailpoint-oss,SailPoint,,"Austin, TX",developers@sailpoint.com,None,"Open source tools, SDKs, and more provided by SailPoint.",79,196,0,2020-04-03T12:46:57Z
+beiatrix,beiatrix,,"austin, tx",,None,ＩＮＴＥＲＮＥＴ ＤＥＣＯＲＡＴＯＲ ･:*+.\(( °ω° ))/.:+,22,195,11,2013-10-16T01:18:18Z
+robertsosinski,Robert Sosinski,REACTIVE.IO @REACTIVE-IO,"Austin, TX & Washington, DC",,True,President & Founder of @reactive-io,33,195,7,2008-04-11T02:46:56Z
+techthoughts2,Jake Morrison,AWS,"Austin, TX",tech@techthoughts.info,None,,33,194,25,2015-09-21T04:58:12Z
+DrewML,Andrew Levine,,"Austin, TX",,None,¯\_(0_0)_/¯,103,194,11,2013-08-14T23:15:48Z
+treyhuffine,Trey Huffine,SOFTWARE ENGINEER @GITCONNECTED,"Austin, TX",,None,"Full stack engineer, passionate for open source technology.",129,194,66,2015-03-29T20:30:50Z
+brundonsmith,Brandon Smith,"SELF FINANCIAL, INC","Austin, TX",mail@brandons.me,None,"Web professional | Most hobby projects are related to some subset of languages, games, graphics, and Rust",64,192,5,2013-02-23T01:47:13Z
+ZeroMemes,Brady Hahn,IMPACTDEVELOPMENT,"Austin, TX",,None,,24,191,19,2016-12-09T23:38:36Z
+dpmex4527,Daniel Perez,,"Austin, TX",,None,Staff Software Engineer at @github,9,190,27,2011-06-09T05:00:00Z
+jasonbaldridge,Jason Baldridge,GOOGLE,"Austin, TX",,None,"Research scientist at Google in Austin working on grounded language understanding.
+",16,190,6,2011-09-23T03:33:12Z
+oracle-terraform-modules,Oracle Terraform Modules,,"Austin, TX",opensource_ww_grp@oracle.com,None,Terraform modules developed by Oracle,28,189,0,2018-10-20T00:47:24Z
+mrjasonweaver,Jason Weaver,,"Austin, Texas",indyplanets@gmail.com,True,UI/UX Engineer,44,189,0,2009-07-12T00:49:26Z
+OR13,Orie Steele,TRANSMUTE-INDUSTRIES,Austin TX,,None,I am a developer.,285,186,175,2014-07-29T04:10:04Z
+DDRBoxman,Colin Edwards,DISCORD,"Austin, TX",colin@recursivepenguin.com,None,,242,186,25,2010-02-21T16:58:55Z
+mcroydon,Matt Croydon,,"Austin, Texas",mcroydon@gmail.com,None,,55,185,438,2008-02-28T03:05:37Z
+viritaromero,Viridiana Romero,VIRIDIANA ROMERO,Austin Texas,,None,"Software Engineer, passionate about Data Science and Machine Learning.",45,185,5,2017-09-01T03:45:35Z
+vijay03,Vijay Chidambaram,UNIVERSITY OF TEXAS AT AUSTIN,"Austin, TX",vijay@cs.utexas.edu,None,"Associate Professor, University of Texas at Austin. Director of UT Systems and Storage Lab (@utsaslab).  ",18,185,17,2011-08-05T03:21:13Z
+mitchspano,Mitch Spano,GOOGLE,Austin TX,,None,,15,184,19,2016-04-11T16:30:30Z
+nazmulidris,Nazmul Idris,,"Austin, TX",,True,"Ex-Googler, founder, engineer, maintainer, maintainer, designer, leader, HsingI-er, racer, storyteller. I ❤️ 
+leadership, authenticity and play.",122,183,6,2012-12-04T23:52:45Z
+tzlaine,Zach Laine,,"Austin, TX",,None,"C++ Committee Member, Boost Author, Regular C++Now Attendee",69,183,10,2009-05-07T19:55:55Z
+leoroese,Leonardo Roese,,Austin,,None,Former D-1 basketball player 🏀 | Currently 6'3 👨‍👦 | Dev 👨🏼‍💻 | 🇧🇷🇺🇸 ,26,183,1,2015-08-27T19:22:02Z
+JostineHo,Jostine Ho,THE UNIVERSITY OF TEXAS AT AUSTIN,"Austin, TX",,True,Data scientist passionate about deep learning and behavior analytics. Knocking down data silos to learn the WHY and HOW that enables building products we love.,17,183,19,2015-12-20T11:19:22Z
+rfxn,Ryan MacDonald,,"Austin, Texas",,True,"Technology Professional hailing from Montreal and now calling ATX home, mad scientist at @nexcess / @liquidweb.",45,182,65,2012-07-04T22:12:00Z
+sdnts,Siddhant,CLOUDFLARE,"Austin, TX",,None,"Unfortunately computers are my hobby.
+
+Building R2 & Queues at Cloudflare. Built Prisma Studio in a past life. He/him.",24,181,0,2014-05-24T17:17:36Z
+mahanta-mayur,Mayur Mahanta,CVSHEALTH,"Austin, TX",mayur.mahantaprof@gmail.com,None,"I code, game and make music. ",31,180,193,2022-08-24T22:53:07Z
+leachim6,Mike Donaghy,GITHUB,"Austin, tx",,True,Hello World guy,29,179,35,2008-04-02T22:17:54Z
+rphillips,Ryan Phillips,RED HAT,"Austin, TX",rphillips@redhat.com,None,,190,178,87,2008-03-02T19:00:27Z
+robswc,Robert S.W. Carroll,,"Austin, TX",robert.s.w.carroll@gmail.com,None,making computers 🖥️ make things 🤖,48,178,9,2018-04-30T05:46:09Z
+mtscout6,Matt Smith,SAILPOINT,"Austin, TX",mtscout6@gmail.com,None,,142,176,49,2011-04-18T14:59:28Z
+teleject,Christopher Schmitt,TELEJECT,"Austin, TX",,None,The Internet's Christopher Schmitt,84,176,68,2008-12-20T04:50:22Z
+anibalsolon,Anibal Sólon,PHD STUDENT IN CS @ UTEXAS,"Austin, TX",anibalsolon@gmail.com,None,Everywhere: @anibalsolon ,180,175,316,2011-01-13T11:23:40Z
+mayoff,Rob Mayoff,,"Austin, Texas, USA, Earth",,None,,149,175,0,2010-04-19T18:20:44Z
+ftarlaci,Fatma Tarlaci,RASTEGAR CAPITAL,"Austin, TX",,True,CTO at Rastegar Capital | AI Scientist | Adj. Prof at UTCS | Former Deep Learning Scholar @openai | @Stanford CS,71,174,62,2016-04-05T17:12:50Z
+msjenkins-r7,Metasploit Jenkins Bot,RAPID7,"Austin, TX",,None,,0,174,0,2013-08-28T17:38:52Z
+todb,Tod Beardsley,"HUGE SUCCESS, LLC","Austin, TX",todb@packetfu.com,None,"Hacker, speaker, researcher, fed, election judge, Metasploit collaborator, @AustinHackers founder, vulnerability discloser, AKA @todb-cisa / @todb-r7",26,173,2,2008-09-11T13:15:33Z
+atxsinn3r,sinn3r,,Austin Texas,,True,"Offensive Security Engineer. Previous: Vuln Research Consultant @ Dell. Lead Exploit Dev @ Metasploit. Past accounts: @wchen-r7, @sinn3r",10,173,12,2019-06-03T17:04:35Z
+linyiru,Lawrence Lin,KAIKHQ,"Austin, Texas",,None,❤️ building awesome and useful applications.,57,173,245,2008-04-27T06:27:35Z
+hartator,,SERPAPI,"Austin, TX",,None,,89,172,20,2010-06-17T10:50:31Z
+austintoddj,Todd Austin,WPENGINE,"Austin, TX",,None,Engineering @wpengine ,33,172,4,2014-07-01T12:29:57Z
+mcg1969,Michael C. Grant,"ANACONDA, INC. / CVX RESEARCH INC.","Austin, TX",mgrant@anaconda.com,None,,63,172,3,2012-11-14T17:12:07Z
+KensoDev,Avi Zurel,HIPPO-ANALYTICS-INC,"Austin, Texas",avi+github@zurel.dev,True,,233,171,78,2009-04-30T09:29:26Z
+ericlaw1979,Eric Lawrence,,"Austin, TX",,None,,81,170,6,2013-04-18T15:11:08Z
+pfuri,pfuri,,"Austin, TX",,True,Lead Senior Software Engineer & Master User Experience Designer,17,168,288,2013-06-01T05:46:33Z
+loweryaustin,Austin Lowery,,Austin TX,,None,,10,168,4,2012-07-19T08:27:14Z
+pifantastic,Aaron Forsander,STRIPE,"Austin, TX",aaron.forsander@gmail.com,None,,102,168,9,2009-09-13T20:17:23Z
+sagivo,Sagiv Ofek,LIBLAB,"Austin, TX",,None,"Founder at LIBLAB (we're hiring!)
+
+Previously - Facebook, AWS",126,167,38,2012-02-29T11:17:46Z
+mattdeboard,Matt DeBoard,,"Austin, TX",,None,,104,164,35,2010-06-16T08:39:00Z
+Robdel12,Robert DeLuca,,"Austin, TX",,True,Senior Software Engineer ,137,164,52,2012-07-31T18:39:21Z
+acmacalister,Austin Cherry,TEAMCURRI,"Austin, TX",acmacalister@gmail.com,None,"Believer in Jesus Christ. Amateur goal miss'er, Ultimate disc dropper and regular golf duffer. Creating incidents and automating things that shouldn’t be.",41,163,19,2011-09-04T02:36:49Z
+MalwareArchaeology,MalwareArchaeology,MALWARE ARCHAEOLOGY LLC,"Austin, TX.",info@MalwareArchaeology.com,None,Home of the Windows Logging Cheat Sheets,2,163,0,2018-11-08T17:09:57Z
+hari-sikchi,Harshit Sikchi,,University of Texas at Austin,,True," Reinforcement Learning, Roboticist",80,162,32,2015-12-04T06:33:08Z
+adamchalmers,Adam Chalmers,KITTYCAD,"Austin, Texas",,None,"Australian, static typing enthusiast, formerly @cloudflare.",153,162,40,2013-09-07T17:09:19Z
+omniedgeio,OmniEdge,,"Austin,TX",,None,"Bring intranet on the internet. What happens in intranet, stays in intranet. ",24,161,0,2021-01-12T12:35:04Z
+jrf0110,John Fawcett,CLOUDFLARE,"Austin, TX",jrf0110@gmail.com,None,@jrf0110 on github,202,160,133,2011-05-04T04:52:32Z
+Jmeyer1292,Jonathan Meyer,,"Austin, Texas",Jmeyer1292@gmail.com,None,"Software Engineer, Roboticist; enjoy working with robot motion planning, perception, and systems design. Go ROS-Industrial.",77,160,9,2013-07-07T20:36:56Z
+keppel,Judd,NOMIC-IO,"Austin, TX",,None,,40,160,155,2011-12-17T07:40:43Z
+coreyward,Corey Ward,,"Austin, TX",,None,Co-founder @project-read. Previously @Figma.,84,159,57,2009-05-05T14:34:00Z
+1000hz,Cina Saffary,CLOUDFLARE,"Austin, TX",itscina@gmail.com,None,"principal eng @cloudflare workers & pages.
+previously @stripe design systems",41,159,20,2012-01-31T16:17:34Z
+mediwareinc,WellSky,,"Austin, TX",,None,,20,158,0,2011-11-10T20:45:29Z
+mikebrow,Mike Brown,IBM,Austin,brownwm@us.ibm.com,None,"OSS Engineer; @containerd maintainer; working @oci, @cncf, and @kubernetes projects",70,158,48,2015-06-05T20:06:52Z
+chipsenkbeil,Chip Senkbeil,FACEBOOK,"Austin, TX",chip.senkbeil@gmail.com,None,,93,158,0,2012-10-03T20:26:38Z
+thebigredgeek,Andrew E. Rhyne,STARTWITHLUCY,"San Francisco, Austin, NYC",rhyneandrew@gmail.com,None,"Software Architect @startwithlucy.
+
+Founder and CTO @boltsource.
+
+Prev @gatsbyjs (acq by @netlify), Jiff (acq by @castlight) and Jobstart (acq by @stripe)",113,157,37,2012-11-14T21:06:04Z
+gbin,Guillaume Binet,COPPER PROJECT,"Austin, TX",gbin@gootz.net,True,,52,157,40,2011-08-12T07:27:26Z
+joonas,Joonas Bergius,COSMONIC,"Austin, TX",,None,,137,156,28,2008-08-06T17:31:20Z
+ammario,Ammar Bandukwala,CODER,"Austin, TX",ammar@ammar.io,None,"founder @coder
+",56,155,103,2014-04-26T20:09:10Z
+sinn3r,_sinn3r,RAPID7,"Austin, Texas.",,None,Lead Security Researcher / Exploit Developer for the Metasploit Project at Rapid7,0,155,0,2011-08-30T19:16:16Z
+GitBoSun,Bo Sun,,Austin,,None,"PhD student at UT Austin.
+Email: bosun@cs.utexas.edu",13,155,77,2017-09-15T08:09:28Z
+BleepLabs,John-Michael Reed,BLEEP LABS,"Austin, TX",drbleep@bleeplabs.com,None,aka Dr. Bleep,51,155,14,2013-07-25T03:36:05Z
+artjmaria,Maria Arteaga,,"Austin, TX",,True,Hello! 👋 ,49,153,173,2020-07-20T04:54:04Z
+atlassian-labs,Atlassian Labs,,"Sydney, San Francisco, Austin, and more!",support@atlassian.com,None,,54,153,0,2019-12-23T19:46:36Z
+shoenig,Seth Hoenig,HASHICORP,"Austin, TX",shoenig@duck.com,None,,87,153,101,2010-09-10T18:31:10Z
+newswim,Dan Minshew,ATLASSIAN,"Austin, Tx",danminshew@gmail.com,None,"Senior Software Engineer @Atlassian \ 
+Board Member, @Open-Austin \
+Treasurer @TechmillDenton \ ∆∆∆ 
+Farmer @GreenfinityFarms \",346,153,270,2014-02-13T00:27:29Z
+yuehaowang,Yuehao,UT AUSTIN,"Austin, TX, U.S.",yuehao@utexas.edu,None,graphics / 3D vision / machine learning,26,153,25,2014-01-04T12:25:57Z
+nertzy,Grant Hutchins,"SRPATX, @NERTZDYNE","Austin, TX",github@nertzy.com,None,Author of the Ruby gems pg_search and with_model,124,152,445,2008-03-07T08:13:46Z
+Anaconda-Platform,Anaconda-Platform,,"Austin, TX",anacondasupport@continuum.io,None,,0,152,0,2013-02-12T17:22:51Z
+blanu,Dr. Brandon Wiley,OPERATOR FOUNDATION,"Austin, Texas",,None,,126,152,350,2008-11-20T16:25:44Z
+safijari,Jari,SIMBEROBOTICS,Austin,,None,"I am the director of computer vision and machine learning at Simbe Robotics.
+
+As a Jack of Some trades, I make Youtube videos too.",123,152,2,2013-08-08T17:38:59Z
+jmswisher,Janet Swisher,HERE (WAS OPENFIN),"Austin, TX",,None,,16,151,0,2011-09-14T16:56:18Z
+ccrama,Carlos Crane,HAPTIC APPS; ENGINEERING @ H-E-B DIGITAL,"Austin, TX ",hapticappsdev@gmail.com,None,"Open-source application developer, web engineer. Swift/Kotlin/VUE",46,151,15,2013-03-09T21:23:31Z
+bentruyman,Ben Truyman,APPLE,"Austin, TX, USA, Earth, Milky Way",ben@truyman.com,None,,29,148,53,2009-05-16T19:05:32Z
+ryanirelan,Ryan Irelan,"PINEWORKSCO, @CRAFTQUEST","Austin, TX",ryan@irelan.net,None,"Building web applications, leading technical training, and guiding teams at @pineworksco ",58,148,27,2008-03-05T00:46:57Z
+ramhiser,John Ramey,,"Austin, Texas",johnramey@gmail.com,None,,51,147,71,2010-05-01T06:03:38Z
+bsatrom,Brandon Satrom,BLUES,"Austin, TX",bsatrom+gh@gmail.com,None,"Brandon is VP of DevEx for Blues Wireless and the founder of Carrot Pants Press, a maker education and publishing company.",158,147,36,2009-07-24T15:24:06Z
+cdgriffith,Chris Griffith,,"Austin, TX",chris@cdgriffith.com,None,Senior Software Engineer,41,147,21,2013-01-15T13:28:00Z
+ilanschnell,Ilan Schnell,,"Austin, TX",ilanschnell@gmail.com,None,,39,146,4,2010-07-16T22:33:13Z
+thezdi,The Zero Day Initiative,,"Austin, TX",,None,"The Zero Day Initiative, Trend Micro Inc., founded by TippingPoint, is a program for rewarding security researchers for responsibly disclosing vulnerabilities",8,146,0,2013-01-04T20:41:04Z
+arohner,Allen Rohner,,"Austin, TX",,True,,90,146,5,2008-06-29T04:01:09Z
+josefnpat,Seppi,,"Austin, TX",,True,I DON'T EVEN KNOW WHAT I'M DOING HERE YEAH YEAH YEAH YEAH,135,146,126,2011-03-02T03:30:57Z
+jack-oquin,Jack O'Quin,AUSTIN ROBOT TECHNOLOGY,"Austin, TX, USA",,None,,22,145,1,2012-02-24T23:10:19Z
+windelicato,Bill Indelicato,,"Austin, TX",windelicato@gmail.com,None,,12,145,13,2012-02-03T04:01:39Z
+theori-io,Theori,,"Austin, TX",contact@theori.io,None,,33,145,0,2016-03-25T04:19:32Z
+rholder,Ray Holder,,"Austin, TX",,None,,45,144,33,2011-04-17T00:54:49Z
+shili2017,Li Shi,CARNEGIE MELLON UNIVERSITY,Austin,,None,Sleep every day!,11,143,80,2017-09-27T13:30:22Z
+brandonrosage,Brandon Rosage,GITHUB,"Austin, TX",brandonrosage@github.com,None,I'm a product manager at GitHub.,6,142,6,2011-10-18T17:19:36Z
+AshM10,Asther Marie Moreno,,"Austin, Texas",ashterfuentes@gmail.com,None,"Artist, Musician, Bartender turned Front-end Developer.",49,142,42,2021-08-21T01:46:12Z
+enthought,"Enthought, Inc.",,"Austin, TX",,None,,153,142,0,2010-12-29T00:26:09Z
+robwierzbowski,Rob Wierzbowski,,"Austin, TX",,True,Web builder,13,142,4,2011-07-19T15:44:37Z
+bowdenk7,Bowden Kelly,NUTILITI,"Austin, Texas",bowdenk7@gmail.com,None,"I build software using VS Code, TypeScript, and Azure. You should too. If you want to learn, contact me, and I'll get you going.",90,141,0,2011-05-31T14:48:16Z
+bcook-r7,Brent Cook,RAPID7,"Austin, TX",,None,Rapid7 Account,4,140,0,2014-12-01T16:18:04Z
+derekargueta,Derek Argueta,AIRBNB,"Austin, TX",,None,distributed systems & developer tooling,48,140,9,2013-08-18T05:53:15Z
+witoff,Rob Witoff,NASA JET PROPULSION LABORATORY,"Austin, Texas",robert.witoff@gmail.com,None,,77,139,16,2012-01-07T21:13:24Z
+lewing,Larry Ewing,MICROSOFT,"Austin, TX",lewing@microsoft.com,None,Lead for .NET wasm runtimes @microsoft,42,139,20,2008-09-10T23:07:17Z
+RobertLRead,Robert L. Read,ROBERTLEEREAD,"Austin, TX",read.robert@gmail.com,True,,24,138,37,2013-08-23T17:38:08Z
+EttusResearch,Ettus Research,,"Austin, TX",support@ettus.com,None,Home of the USRP™ Software-Defined Radio!,23,138,0,2009-09-11T10:39:20Z
+jshcrowthe,Josh Crowther,,"Austin, TX",,None,Software Engineer,62,137,46,2013-10-01T19:41:59Z
+ccraddock,Cameron Craddock,,"Austin, Texas",cameron.craddock@gmail.com,None,,92,137,19,2012-05-10T04:47:35Z
+mistermoe,Moe Jangda,TBD54566975,"Austin, TX",moe@tbd.email,None,,53,136,11,2013-06-29T23:59:29Z
+alexhuth,Alex Huth,THE UNIVERSITY OF TEXAS AT AUSTIN,"Austin, TX, USA",alex.huth@gmail.com,None,,25,136,6,2013-07-29T23:45:58Z
+MontealegreLuis,Luis Montealegre,ELECTRONICARTS,"Austin, TX",montealegreluis@gmail.com,True,Software Architect @electronicarts,73,136,3,2012-12-21T16:02:30Z
+grahamwaters,Graham Waters,HUTTO ISD,"Austin, Texas",,True,"I once taught dots on the screen to collect resources, and now I teach Second Graders STEM to build better humans organically.",125,136,3816,2020-04-15T20:19:25Z
+damon,Damon Clinkscales,,"Austin, TX",,None,Shepherd.,16,136,94,2008-02-17T20:29:46Z
+gully,gully,UT AUSTIN ASTRONOMY,"Austin, TX",igully@gmail.com,True,"Scientist and technologist quantifying uncertainty in astronomical data, formerly with Kepler/K2, Kavli Institute Beijing, UT Austin PhD 2015.",116,135,243,2011-06-19T18:51:18Z
+kernelsmith,Josh,THEZDI,"Austin, TX",,True,"ZDI, former MSF Dev, RPI grad, the cake is a lie. I'm a dude, playing a dude, disguised as another dude.",67,135,25,2011-02-15T22:52:27Z
+moagrius,Mike Dunn,,"Austin, TX",,None,I am a human person,41,135,0,2011-03-31T11:06:31Z
+Xibanya,Manuela Malasaña,TEAM DOGPIT,"Austin, TX",,None,Gamedev and owner of award-winning ATX indie studio Team Dogpit,25,135,27,2015-08-13T16:26:50Z
+hellobrian,Brian Han,,"Austin, TX",,True,UX Developer at Indeed,137,135,74,2013-04-17T21:20:56Z
+SaltyQuetzals,Gabriel Britain,MICROSOFT,"Austin, TX",,True,"MS in Human-Computer Interaction from Georgia Tech, BS in Computer Science from TAMU",31,134,250,2015-11-19T03:08:09Z
+jakecraige,Jake Craige,,"Austin, TX",,None,,97,134,31,2013-03-07T15:54:57Z
+joahg,Joah Gerstenberg,SQUAREUP,"Austin, Texas",me@joahg.com,None,,6,132,88,2012-08-16T16:04:47Z
+baalexander,Brandon Alexander,,"Austin, TX",baalexander@gmail.com,None,,3,132,49,2009-05-12T18:03:35Z
+emcho,Emil Ivov,JITSI,"Austin, USA",emcho@jitsi.org,None,,23,132,2,2012-06-04T21:39:03Z
+shellcromancer,Daniel Stinson-Diess,BREXHQ,Austin,,None,"Security Engineer @brexhq; Previously @cloudflare, Cyber@UCR; Hobbyist reverse engineer of 🍎  or 🐧  stuff. ",25,132,631,2016-09-01T23:27:13Z
+daniel-nagy,Daniel Nagy,,"Austin, TX",,None,License to kill -9,29,132,3,2012-04-08T04:09:51Z
+nectariferous,Nectariferous,VORTEXCYBERBD,"Austin, Texas ",,True,💻 Passionate software developer and ethical hacker. Engaged with @Ethereum .,70,131,203,2023-05-16T14:52:08Z
+sunny-g,Sunny Gonnabathula,NEARSPACELABS,"Austin, TX",,True,,226,130,465,2012-07-28T06:42:45Z
+jedwards1211,Andy Edwards,JCOREIO,"Austin, TX",,None,"coding hard, caving hard.
+
+Feel free to @ me if I forget about issues 🙃",304,130,7,2012-02-18T00:54:48Z
+AustinKelsay,Austin Kelsay,PLEBDEVS,Austin TX,,None,"Engineer with a passion for Bitcoin, Lightning, Nostr, FOSS, and developer education.",239,130,35,2019-07-31T22:21:02Z
+heyjaywilson,Jay Wilson,MATTERXYZ,"Austin, TX",heyjay@omg.lol,True,Swift Developer that dabbles in JavaScript,74,130,97,2016-05-11T17:05:18Z
+amberleyromo,Amberley,,"Austin, TX",,None,,46,129,16,2013-02-03T03:53:36Z
+UT-Austin-RPL,UT Robot Perception and Learning Lab,,"Austin, TX",,None,,33,129,0,2020-03-07T21:52:12Z
+OneCricketeer,Jordan Moore,ADOBE,"Austin, TX",,None,,52,129,64,2012-07-06T03:42:37Z
+ajbozarth,Alex Bozarth,IBM QUANTUM,"Austin, TX",ajbozart@us.ibm.com,None,"Open Source Software Engineer | @IBM Quantum,
+@Jupyterlab Council member, and
+@Apache Livy PPMC.
+",37,129,70,2015-08-24T22:33:39Z
+coadler,Colin Adler,CODER,"Austin, TX",colin@coder.com,None,"go <-> rust
+
+",53,128,38,2014-01-06T18:01:52Z
+koeninger,Cody Koeninger,,"Austin, TX",,None,,73,128,1,2009-06-23T21:43:18Z
+cloudburst,cloud,,"Austin, TX",,None,,10,127,449,2009-11-06T22:58:21Z
+cmdruid,cmd,FREELANCE,"Austin, TX",cscottdev@protonmail.com,True,"I enjoy the bleeding-edge of technology.
+
+#Node #Typescript #React #Docker #Tor #Bitcoin #Lightning #Nostr <3",71,127,27,2013-01-03T09:00:05Z
+gpdowning,Glenn Downing,UNIVERSITY OF TEXAS,"Austin, TX",downing@cs.utexas.edu,None,Nothing to be done.,1,127,0,2010-06-26T12:41:39Z
+DavidWittman,David Wittman,,"Austin, Texas",david@wittman.com,True,"Dev, Ops, Security, Lens Flares",144,126,22,2011-04-07T01:05:29Z
+dknecht,Dane,CLOUDFLARE,Austin,,None,,3,126,46,2009-02-27T17:56:12Z
+GluuFederation,Gluu,,"Austin, TX",sales@gluu.org,None,Gluu's main repo for its open source identity federation and API security platform.,67,125,0,2013-02-27T14:18:25Z
+mikesurowiec,Mike Surowiec,GITHUB,"Austin, TX",,None,Engineering Manager @github,17,125,35,2011-05-31T19:07:09Z
+AutoMapper,AutoMapper,,"Austin, TX",,None,,11,123,0,2011-07-02T20:52:34Z
+ericyd,Eric Yancey Dauenhauer,,"Austin, TX",eric@ericyd.com,None,"Just a human, doing my best",55,123,7,2014-08-06T23:22:54Z
+mpenning,Mike Pennington,,"Austin, TX USA",,True,"Network Engineer, python, Go",51,123,4,2008-11-27T17:10:52Z
+ianjennings,Ian Jennings,DASHCAMIO,"Austin, TX",ian@meetjennings.com,True,"Last of the freelance hackers, greatest sword fighter in the world.",219,123,90,2010-06-30T03:08:13Z
+jimbojsb,Josh Butts,ZIFF MEDIA GROUP,"Austin, TX",josh@joshbutts.com,None,"SVP, CTO",99,122,1,2009-07-23T03:14:19Z
+lovemecomputer,Audrey Moon,CARBON-DESIGN-SYSTEM,austin,,None,🌸🔌🌸· 👩🏻‍💻· she/they · @soft-aesthetic dev enviros,51,122,49,2013-03-12T19:23:34Z
+WillAbides,WillAbides,,"Austin, TX",,True,,135,122,28,2010-03-30T16:37:29Z
+camilonova,Camilo Nova,AXIACORE,"Austin, TX",,None,CEO @ Axiacore,88,122,19,2010-02-12T16:31:32Z
+joshknowles,Josh Knowles,,"Austin, TX",joshknowles@gmail.com,None,,14,122,43,2008-01-25T21:30:42Z
+rauhryan,Ryan Rauh,HUBOARD,"Austin, TX",,None,,94,122,41,2009-03-31T14:14:25Z
+ostris,Ostris,,"Austin, Tx",jaretburkett@gmail.com,None,Software development company,10,121,0,2017-11-25T14:32:34Z
+daijro,,STATEFARMINS,UT Austin CS + ECE,,None,"Software, network, & data engineer
+",19,121,5,2020-10-10T02:26:44Z
+Xandromus,Xander Rapstine,EDX,"Austin, TX",,None,Passionately creative front-end web developer. Lifelong learner and believer in the power of change through creative endeavors.,22,121,74,2017-07-26T21:03:20Z
+kiat,Kia Teymourian,THE UNIVERSITY OF TEXAS AT AUSTIN,"Austin, TX",,None,,124,120,77,2011-10-17T12:25:46Z
+MichaelDesantis,Michael Desantis,REFLEXHQ,"Austin, TX",,True,"Software Engineer @reflexhq
+Former Software Engineer @alchemyeng & @cdr.",19,120,98,2016-01-12T19:29:27Z
+h3h,Bradford Fults,,"Austin, Texas",,None,"Elegant, developer-friendly languages and code. Interfaces are everything. Code is for humans.",59,120,19,2008-02-28T02:42:37Z
+Rav4s,Ravi Shah,,"Austin, TX",,None,,31,120,594,2020-04-06T14:18:11Z
+ecapuano,Eric Capuano,,"Austin, TX",,None,"InfoSec Founder, Practitioner, Advisor & SANS DFIR Instructor",42,120,35,2013-04-22T00:42:21Z
+aporat,A Porat,,"Austin, Texas",,None,,29,119,118,2010-09-25T14:47:56Z
+jtraglia,Justin Traglia,EF (@ETHEREUM),"Austin, Texas",,None,Security Researcher,57,119,63,2021-12-04T01:45:30Z
+unwiredben,Ben Combee,ROKU,"Austin, TX",combee@techwood.org,None,,99,119,26,2010-03-25T17:08:06Z
+mflaxman,Michael Flaxman,,"Austin, TX",,None,,52,118,4,2010-10-21T18:24:46Z
+prestonsn,Preston,SYNDICA.IO,Austin TX,,True,"Engineer @Syndica 
+ 
+CS & Math @UTAustin",33,117,80,2018-01-06T02:22:44Z
+samkap,Sam Kapila,NETLIFY,"Austin, TX",,None,Staff Designer and author of Inclusive Design Communities,50,117,78,2012-08-14T18:46:07Z
+preetapan,Preetha,ZSCALER,"Austin, TX",,None,"Engineering Director, working @hashicorp on fun distributed systems problems. Formerly principal engineer @indeedeng",7,117,2,2010-10-29T21:51:42Z
+grgcombs,Greg Combs,,"Austin, TX",gcombs@gmail.com,None,2012-now: Oracle Tap iOS | 2008-now: TexLege | 2011: Open States iOS | 2009-2012: Professor @ UT Dallas & SMU | 1995-1998: MacOS CodeWarrior @ Metrowerks,86,117,84,2010-04-13T08:00:42Z
+tlivings,Trevor Livingston,EXPEDIAGROUP,"Austin, Texas",,None,Distinguished Engineer @ExpediaGroup and Principal Architect  @vrbo (formerly @homeaway). Previously @paypal and @krakenjs.,73,116,10,2008-08-14T16:19:09Z
+jjn1056,John Napiorkowski,,"Austin,TX",jjnapiork@cpan.org,True,,217,116,34,2009-03-26T23:51:20Z
+dirtycajunrice,Nicholas St. Germain,CAJUN-PRO-LLC,"Austin, TX",nick@cajun.pro,True,"Chief Technology Officer @kortstrid 
+Partner @ValsogardEnterprise 
+Owner @Cajun-Pro-LLC 
+Lead Solidity & Web3 Developer @thecosmicuniverse",95,116,13,2015-11-10T19:12:42Z
+stevehanson,Stephen Hanson,THOUGHTBOT,"Austin, TX",,True,,79,116,29,2012-04-30T02:47:28Z
+kraftbj,Brandon Kraft,AUTOMATTIC,"Austin, TX",,None,,92,116,33,2009-05-26T21:14:24Z
+jimangel,Jim Angel,GOOGLE,"Austin, TX",,None,,77,116,7,2013-06-03T13:31:53Z
+itsjustkevin,Kevin Chisholm,GOOGLE,"Austin, Texas",,None,"Technical Program Manager for Flutter and Dart @Google
+",33,115,22,2015-02-22T11:48:53Z
+wmorgan,William Morgan,BUOYANTIO,"Austin, TX",,None,@Linkerd talky person and Chief Email Outputter at @BuoyantIO.,32,115,2,2008-03-27T22:02:38Z
+JoshuaBrigati,Joshua Brigati,,"Austin, TX",brigati.joshua@gmail.com,True,,33,114,3,2016-04-10T04:16:41Z
+MaureenHelm,Maureen Helm,,"Austin, TX",,None,,9,114,5,2013-12-12T19:08:51Z
+tbarn,Taylor Barnett-Torabi,,"Austin, TX",,None,"usually living at the intersection of data and APIs.
+
+ex @planetscale, @stoplightio, @keen, and some other startups.",33,114,0,2012-07-19T22:39:46Z
+brookslybrand,Brooks Lybrand,,"Austin, TX",brookslybrand@gmail.com,None,Remix Developer Relations Manager,107,114,16,2015-05-11T15:07:19Z
+sjenning,Seth Jennings,RED HAT,"Austin, TX",,None,Kubernetes/OpenShift,111,114,1,2010-11-23T19:18:54Z
+andrewsmhay,Andrew Hay,,"Austin, TX",,None,"Devastatingly handsome 🍁, security, DFIR, DevOps, cloud, startup, and BBQ renaissance strongman executive. Former rugby prop, current rugby coach.",62,114,8,2012-07-01T11:59:07Z
+okorshenko,Oleksii Korshenko,ADOBE,"Austin, TX. US",,None,,7,114,0,2014-04-17T09:30:14Z
+runZeroInc,"runZero, Inc",,"Austin, Texas",,None,runZero,15,113,0,2019-05-06T00:34:53Z
+huumn,Keyan,STACKERNEWS,"Austin, TX",,None,Human,16,113,23,2017-11-30T19:28:43Z
+whatthejeff,Jeff Welch,"ONNIT LABS, INC.","Austin, TX",whatthejeff@gmail.com,True,,80,113,28,2010-06-16T07:31:15Z
+AriTheElk,Aria McKinley,CODERPAD,"Austin, TX",aria@elk.wtf,True,open source all the things,101,113,12,2012-04-09T01:09:50Z
+skeptycal,Michael Treanor,SKEPTYCAL,Austin,,True,"skeptic | educator | maker | parent | curious | creative | introvert
+https://about.me/skeptycal",274,112,2222,2017-03-02T19:02:47Z
+andrewrynhard,Andrew Rynhard,SIDEROLABS,"Austin, TX",andrew@andrewrynhard.com,None,,113,112,32,2013-01-25T16:18:34Z
+tonyelhabr,Tony ElHabr,EQUILIBRIUM ENERGY,"Austin, TX",anthonyelhabr@gmail.com,None,#rstats and other things,95,111,28,2015-11-05T02:15:58Z
+eugeneiiim,Eugene Marinelli,,"Austin, TX",eugenemarinelli@protonmail.com,None,"Building something new. Previously Founder & CTO at @blend, engineer at @palantir",57,111,254,2008-10-26T20:33:15Z
+adrianhorning08,Adrian Horning,ME,Austin,,None,"Software Developer. React, TypeScript, JavaScript, Node, Java",77,110,30,2016-12-07T20:54:43Z
+troian,Artur Troian,VOLANTMQ @OVRCLK @AKASH-NETWORK @NOTIFAI,Austin TX,,None,"Father, software architect, and non-maskable interrupt at @ovrclk creators of @akash-network.
+
+Co-founder at NotifAi",64,110,14,2012-10-03T07:39:31Z
+sbellware,Scott Bellware,AMPGT.COM,"Austin, TX",,True,Relentless Improvement. Asker of inconvenient questions.,4,109,17,2008-02-23T19:37:53Z
+jarrodmedrano,Jarrod Medrano - Senior Software Engineer,,"Austin, TX",,True,,156,109,127,2012-07-05T19:01:35Z
+JnyJny,Erik OShaughnessy,,"Austin, TX - ish",erik.oshaughnessy@gmail.com,None,UNIX N3RD.,115,109,156,2011-06-26T16:08:22Z
+alisonjoseph,Alison Joseph,IBM,"Austin, TX",,None,Dev Manager | Front End Lead @carbon-design-system @ibm-design,42,109,16,2012-11-08T20:17:08Z
+noporpoise,Isaac Turner,CURATIVE,"Austin, TX",turner.isaac@gmail.com,True,,27,109,133,2011-12-20T05:08:49Z
+roice3,Roice Nelson,GE AVIATION,Austin,,None,,10,109,16,2012-05-01T19:11:49Z
+Adancode,Adam Camacho,,"Austin, TX",,None,,113,109,86,2013-09-07T05:34:35Z
+mdxp,Marius Ducea,,"Austin, TX",,None,,66,109,3,2009-05-14T12:41:54Z
+crccheck,Chris Chang,,"Austin, TX",github@crccheck.com,None,Tell a little about yourself,169,109,106,2010-01-26T05:06:08Z
+hiwonjoon,Wonjoon Goo,,"Austin, USA",,None,,59,108,17,2012-04-23T01:19:41Z
+saranshkataria,Saransh Kataria,,"Austin, Teexas",saransh@wisdomgeek.com,True,,47,108,0,2012-02-19T08:14:47Z
+DrChat,Justin Moore,,"Austin, Texas",,None,,65,108,6,2012-09-22T23:36:17Z
+andersson,Bjorn Andersson,,"Austin, TX",andersson@kernel.org,None,,26,108,2,2011-07-13T11:49:16Z
+mauvehed,mauvehed,"AUSTINHACKERS, @ATTRITION-ORG, @SOCGOONS, @RESTINCODE","Austin, TX",nate@mvh.dev,None,"Hacker, Troll, and Mental Health Advocate.",58,108,135,2009-10-18T19:17:41Z
+marks,Mark Silverberg,AIRTABLE,"Austin, TX",mark@marksilver.net,None,"Integration Engineer @airtable | formerly @slackapi, @dominodatalab, @socrata; tech cofounder @Social-Health-Insights",204,107,184,2008-11-15T01:56:49Z
+asonix,asonix,,"Austin, TX",asonix@asonix.dog,None,"Comfy, Developer, Austin",131,107,83,2013-08-25T06:10:12Z
+praveenperera,Praveen Perera,,"Austin, TX",,True,"Rust, Kubernetes, and Bitcoin",148,107,290,2012-05-24T19:10:44Z
+mymindstorm,Brendan Early,,"Austin, Texas",,None,,47,106,4,2017-04-19T23:03:10Z
+dfridovi,David Fridovich-Keil,THE UNIVERSITY OF TEXAS AT AUSTIN,"Austin, TX",,None,"I am an assistant professor at UT Austin. My research involves optimal control, motion planning, and game theory.",19,106,1,2014-12-14T17:27:40Z
+AndyZe,AndyZe,,"Austin, Texas",,None,,77,106,0,2015-03-03T02:16:00Z
+benschw,Ben Schwartz,,"Austin, TX",benschw@gmail.com,None,Principal Engineer at Shippo,101,106,28,2009-06-25T14:08:36Z
+seejamescode,James Y Rauhut,,"Austin, Texas",james@seejamesdesign.com,None,"Product Designer, making happy little experiences",41,105,0,2014-05-08T02:52:23Z
+acidjazz,kevin olson,FUME,"austin, texas",acidjazz@gmail.com,True,"i like to build digital things
+
+-🌀🎷",105,105,15,2011-08-08T20:19:27Z
+wuputah,Jonathan Dance (JD),HYDRADATABASE,"Austin, TX",,None,"CTO @hydradatabase, Leader, Engineer, Rubyist, Rustacean; formerly @heroku, @CrunchyData",64,105,15,2008-03-17T22:20:55Z
+gnobitab,XCL,UT AUSTIN,"Austin, TX",xcliu@utexas.edu,None,Ph.D. student at UT Austin,15,105,5,2011-10-28T14:01:55Z
+austinheap,Austin Heap,,"Austin, TX",,None,"Someone described my demeanor as ""an anxiety bordering on panic,"" so I'm feeling very seen today.",19,105,32,2009-05-04T23:14:33Z
+jseppi,James Seppi,,"Austin, TX",james.seppi@gmail.com,True,"JavaScript and Python. Working on satellites at https://umbra.space.
+Previously @mapbox, @18F, @TNRIS.",37,105,16,2011-03-29T18:34:37Z
+trentpiercy,Trent Piercy,MIT,"Austin, TX",tjp@mit.edu,None,,17,105,28,2017-06-22T03:38:41Z
+ayasin,Amir Yasin,,"Austin, TX",ayasin@datatensor.com,True,"Full stack developer, architect, sci fi addict",19,104,0,2013-02-25T19:03:40Z
+kkpatel1,Kartik Patel,THE UNIVERSITY OF TEXAS AT AUSTIN,"Austin, Texas",,None,,24,104,116,2014-02-06T18:02:12Z
+addisonlynch,Addison Lynch,,"Austin, TX",ahlshop@gmail.com,None,UCLA alum. Equities trader. ,47,104,20,2016-08-21T21:58:46Z
+eriknw,Erik Welch,,"Austin, TX",,None,,84,104,1,2012-07-28T23:41:25Z
+Seanba,Sean Barton,,"Austin, TX",sean@seanba.com,None,Professional game devloper,20,104,1,2014-03-17T22:03:09Z
+cnstoll,Conrad Stoll,SENIOR LEAD MOBILE ENGINEER @ UNDER ARMOUR,"Austin, TX",cnstoll@me.com,None,"Maintainer: 
+- MMWormhole
+- MMRecord
+
+I build iOS apps at @underarmour. On twitter @conradstoll.",21,103,43,2012-03-29T08:57:00Z
+reybos,Andrei Bosyi,,"Austin, USA",,None,Java backend developer,21,103,6,2017-08-13T16:56:21Z
+ivelin,Ivelin Ivanov,,"Austin, TX",,True,Open source software contributor and technology entrepreneur in perpetual reinforcement learning mode.,56,103,182,2012-08-28T14:17:03Z
+shashilo,Shashi Lo,,"Austin, TX",,None,"Sr. Frontend Engineer, UX enthusiast, and father of boys with natural Mohawks. ",13,103,29,2010-08-12T18:29:18Z
+jonathanrocher,Jonathan Rocher,KBI BIOPHARMA,"Austin, TX, USA",jrocher@kbibiopharma.com,None,Scientific software architect striving at driving the world to a better place and driving science forward using open source.,27,103,11,2011-02-01T02:14:02Z
+erichexter,Eric Hexter,ALIYA,Austin Texas,,None,"CTO.I code, 3d print, and drum, not necessarily in that order.
+",70,103,53,2009-08-12T19:18:26Z
+sethbergman,Seth Bergman,STACKRIOT @OPERATIONCODE @STACKRIOT-LABS @VIPCARE,"Austin, TX",,None,"Senior Principal Software Engineer 
+@ Dell Technologies
+",187,103,409,2014-07-01T00:45:39Z
+oracle-actions,Oracle GitHub Actions,,"Austin, TX",opensource_ww_grp@oracle.com,None,GitHub Actions from Oracle,6,103,0,2021-05-19T23:36:49Z
+phillipuniverse,Phillip Verheyden,SHIPWELL,"Austin, TX",,None,"Software craftsman in Austin, Texas",66,102,12,2011-03-22T17:04:42Z
+OpenSorceress,Leah LaSalla,,"Austin, TX",,True,I hacked NASA with a toaster,168,102,85,2012-06-16T08:19:15Z
+patrickocoffeyo,Patrick Coffey,NBC UNIVERSAL,Austin Texas,patrickcoffey48@gmail.com,None,"I write software using a variety of languages (Typescript, Go, PHP, etc)",47,101,96,2011-10-06T15:33:05Z
+fearphage,Phred Lane,USTUDIO,"Austin, TX",fearphage+github@gmail.com,None,,254,101,56,2008-09-09T22:48:49Z
+kc5nra,John R. Bradley,"TURRET TECHNOLOGY, LLC.","Austin, TX",jrbradley@gmail.com,True,,62,101,0,2010-03-26T15:32:01Z
+astashov,Anton Astashov,INDEED,"Austin, TX",anton.astashov@gmail.com,None,,87,101,18,2008-06-06T08:20:55Z
+dbredvick,Drew Bredvick,VERCEL,"Austin, TX",dbredvick@gmail.com,None,"Building SaaS for GTM teams while growing sales engineering ▲ 
+@Vercel",69,101,3,2015-01-16T21:46:31Z
+mpakus,"Ibragimov ""MpaK"" Renat",AÖMEGA,"Austin, Texas",renat@aomega.co,True,"If you wake up at a different time in a different place, could you wake up as a different person?",119,101,93,2010-06-23T07:21:53Z
+mutualmobile,Mutual Mobile,,"Austin, TX",,None,We build breakthrough products in partnership with the world's leading companies.,86,101,0,2009-12-11T23:41:54Z
+BubblyOrca,BubblyOrca,REKTIFY AI,"Austin, Texas",,None,"""Every living being has its own methods for sensing and understanding the world.""   ",117,101,208,2017-08-04T04:49:57Z
+AMD-IT,AMD IT Organization,,Austin,dl.DevSecOps-Github-Admin@amd.com,None,Repositories of AMD IT Organization ,0,101,0,2020-01-14T15:36:11Z
+gengchenmai,,UNIVERSITY OF TEXAS AT AUSTIN,"Austin, Texas, USA",,None,"My name is Gengchen Mai, an assistant professor at UT Austin Geography. I was an AP at UGA Geography. My research focuses on Spatially Explicit AI",21,101,7,2019-01-30T02:57:29Z
+matt-landers,Matt Landers,GOOGLE,"Austin, TX",,None,,27,101,10,2013-11-03T16:44:10Z
